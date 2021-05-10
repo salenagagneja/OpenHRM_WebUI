@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SEB UI Assignment]" guice-stage="DEVELOPMENT">
+  <parameter name="browser" value="chrome"/>
+  <test thread-count="5" name="verify_add_employee(failed)">
+    <parameter name="password" value="admin123"/>
+    <parameter name="user_id" value="admin"/>
+    <classes>
+      <class name="ui_functional_test.test_hrm">
+        <methods>
+          <include name="verify_addnewemployee"/>
+          <include name="beforeClass"/>
+          <include name="setUp"/>
+          <include name="afterMethod"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- ui_functional_test.test_hrm -->
+    </classes>
+  </test> <!-- verify_add_employee(failed) -->
+</suite> <!-- Failed suite [SEB UI Assignment] -->

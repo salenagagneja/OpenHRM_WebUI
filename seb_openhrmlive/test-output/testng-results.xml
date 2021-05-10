@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="1" failed="1" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[TestData -> Input.xlsx - Successful]]>
+    </line>
+    <line>
+      <![CDATA[Test_Report -> Execution_Report.xlsx - Successful]]>
+    </line>
+    <line>
+      <![CDATA[Test_Report -> Execution_StepReport - Successful]]>
+    </line>
+    <line>
+      <![CDATA[Execution Log for TC : login]]>
+    </line>
+    <line>
+      <![CDATA[Step Name : 
+Input User name, ---Description :Set value for username :admin, --- Step Status : Pass]]>
+    </line>
+    <line>
+      <![CDATA[Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass]]>
+    </line>
+    <line>
+      <![CDATA[Step Name : 
+Welcome Page Displayed, ---Description :Welcome message displayed, --- Step Status : Pass]]>
+    </line>
+    <line>
+      <![CDATA[Execution Log for TC : verify_add_employee]]>
+    </line>
+    <line>
+      <![CDATA[WebElement : PIM Module available.]]>
+    </line>
+    <line>
+      <![CDATA[Step Name : 
+WebElement : PIM Module, ---Description :WebElement : PIM ModuleExists, --- Step Status : Pass]]>
+    </line>
+    <line>
+      <![CDATA[Step Name : 
+Menu Item PIM Module, ---Description :Clicked PIM module on Home Page , --- Step Status : Pass]]>
+    </line>
+    <line>
+      <![CDATA[WebElement : Add Employee available.]]>
+    </line>
+    <line>
+      <![CDATA[Step Name : 
+WebElement : Add Employee, ---Description :WebElement : Add EmployeeExists, --- Step Status : Pass]]>
+    </line>
+    <line>
+      <![CDATA[WebElement : Input Box First Name  available.]]>
+    </line>
+    <line>
+      <![CDATA[Step Name : 
+WebElement : Input Box First Name , ---Description :WebElement : Input Box First Name Exists, --- Step Status : Pass]]>
+    </line>
+    <line>
+      <![CDATA[Step Name : 
+Textbox First Name, ---Description :First Name Set value :  Test, --- Step Status : Pass]]>
+    </line>
+    <line>
+      <![CDATA[WebElement : Input Box Last Name  available.]]>
+    </line>
+    <line>
+      <![CDATA[Step Name : 
+WebElement : Input Box Last Name , ---Description :WebElement : Input Box Last Name Exists, --- Step Status : Pass]]>
+    </line>
+    <line>
+      <![CDATA[Step Name : 
+Textbox First Name, ---Description :Last Name Set value :  Testing, --- Step Status : Pass]]>
+    </line>
+    <line>
+      <![CDATA[WebElement : Save Button available.]]>
+    </line>
+    <line>
+      <![CDATA[Step Name : 
+WebElement : Save Button, ---Description :WebElement : Save ButtonExists, --- Step Status : Pass]]>
+    </line>
+    <line>
+      <![CDATA[WebElement : Personal Details Page available.]]>
+    </line>
+    <line>
+      <![CDATA[Step Name : 
+WebElement : Personal Details Page, ---Description :WebElement : Personal Details PageExists, --- Step Status : Pass]]>
+    </line>
+    <line>
+      <![CDATA[WebElement : Edit Button available.]]>
+    </line>
+    <line>
+      <![CDATA[Step Name : 
+WebElement : Edit Button, ---Description :WebElement : Edit ButtonExists, --- Step Status : Pass]]>
+    </line>
+    <line>
+      <![CDATA[WebElement : SSN Number available.]]>
+    </line>
+    <line>
+      <![CDATA[Step Name : 
+WebElement : SSN Number, ---Description :WebElement : SSN NumberExists, --- Step Status : Pass]]>
+    </line>
+    <line>
+      <![CDATA[WebElement : Radio Button:Male available.]]>
+    </line>
+    <line>
+      <![CDATA[Step Name : 
+WebElement : Radio Button:Male, ---Description :WebElement : Radio Button:MaleExists, --- Step Status : Pass]]>
+    </line>
+    <line>
+      <![CDATA[Step Name : 
+Employee Personal Details Save Button, ---Description :Clicked on on Personal Details save button, --- Step Status : Pass]]>
+    </line>
+    <line>
+      <![CDATA[WebElement : Contact Details available.]]>
+    </line>
+    <line>
+      <![CDATA[Step Name : 
+WebElement : Contact Details, ---Description :WebElement : Contact DetailsExists, --- Step Status : Pass]]>
+    </line>
+    <line>
+      <![CDATA[WebElement : Emergency Contacts Page available.]]>
+    </line>
+    <line>
+      <![CDATA[Step Name : 
+WebElement : Emergency Contacts Page, ---Description :WebElement : Emergency Contacts PageExists, --- Step Status : Pass]]>
+    </line>
+    <line>
+      <![CDATA[Step Name : 
+Add Emergency Contact Button, ---Description :Add Emergency Cotact button visible, --- Step Status : Pass]]>
+    </line>
+    <line>
+      <![CDATA[WebElement : Add Emergency Contact Name Details available.]]>
+    </line>
+    <line>
+      <![CDATA[Step Name : 
+WebElement : Add Emergency Contact Name Details, ---Description :WebElement : Add Emergency Contact Name DetailsExists, --- Step Status : Pass]]>
+    </line>
+    <line>
+      <![CDATA[WebElement : Emergency Contact Relationship Details available.]]>
+    </line>
+    <line>
+      <![CDATA[Step Name : 
+WebElement : Emergency Contact Relationship Details, ---Description :WebElement : Emergency Contact Relationship DetailsExists, --- Step Status : Pass]]>
+    </line>
+    <line>
+      <![CDATA[WebElement : Emergency Contact Mobile Number Details available.]]>
+    </line>
+    <line>
+      <![CDATA[Step Name : 
+WebElement : Emergency Contact Mobile Number Details, ---Description :WebElement : Emergency Contact Mobile Number DetailsExists, --- Step Status : Pass]]>
+    </line>
+    <line>
+      <![CDATA[Step Name : 
+Employee Personal Details Save Button, ---Description :Save Emergency Contact, --- Step Status : Pass]]>
+    </line>
+    <line>
+      <![CDATA[WebElement : Dependents Page available.]]>
+    </line>
+    <line>
+      <![CDATA[Step Name : 
+WebElement : Dependents Page, ---Description :WebElement : Dependents PageExists, --- Step Status : Pass]]>
+    </line>
+    <line>
+      <![CDATA[WebElement : Dependent Name available.]]>
+    </line>
+    <line>
+      <![CDATA[Step Name : 
+WebElement : Dependent Name, ---Description :WebElement : Dependent NameExists, --- Step Status : Pass]]>
+    </line>
+    <line>
+      <![CDATA[Step Name : 
+Dependent Relationship, ---Description :Dropdown value : Child selected., --- Step Status : Pass]]>
+    </line>
+    <line>
+      <![CDATA[WebElement : Dependent Date Of Birth Details available.]]>
+    </line>
+    <line>
+      <![CDATA[Step Name : 
+WebElement : Dependent Date Of Birth Details, ---Description :WebElement : Dependent Date Of Birth DetailsExists, --- Step Status : Pass]]>
+    </line>
+    <line>
+      <![CDATA[WebElement : Immigration Details Page available.]]>
+    </line>
+    <line>
+      <![CDATA[Step Name : 
+WebElement : Immigration Details Page, ---Description :WebElement : Immigration Details PageExists, --- Step Status : Pass]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-05-10T05:50:00 CEST" name="SEB UI Assignment" finished-at="2021-05-10T05:50:20 CEST" duration-ms="20743">
+    <groups>
+    </groups>
+    <test started-at="2021-05-10T05:50:00 CEST" name="verify_add_employee" finished-at="2021-05-10T05:50:20 CEST" duration-ms="20743">
+      <class name="ui_functional_test.test_hrm">
+        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:ui_functional_test.test_hrm@5c90e579]" started-at="2021-05-10T05:50:00 CEST" name="beforeClass" finished-at="2021-05-10T05:50:05 CEST" duration-ms="5833" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[TestData -> Input.xlsx - Successful]]>
+            </line>
+            <line>
+              <![CDATA[Test_Report -> Execution_Report.xlsx - Successful]]>
+            </line>
+            <line>
+              <![CDATA[Test_Report -> Execution_StepReport - Successful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="setUp(org.testng.ITestContext)[pri:0, instance:ui_functional_test.test_hrm@5c90e579]" started-at="2021-05-10T05:50:05 CEST" name="setUp" finished-at="2021-05-10T05:50:05 CEST" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@410ae5ac]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Execution Log for TC : login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:ui_functional_test.test_hrm@5c90e579]" started-at="2021-05-10T05:50:05 CEST" name="login" description="Login Function" finished-at="2021-05-10T05:50:10 CEST" duration-ms="4292" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Step Name : 
+Input User name, ---Description :Set value for username :admin, --- Step Status : Pass]]>
+            </line>
+            <line>
+              <![CDATA[Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass]]>
+            </line>
+            <line>
+              <![CDATA[Step Name : 
+Welcome Page Displayed, ---Description :Welcome message displayed, --- Step Status : Pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult,org.testng.ITestContext)[pri:0, instance:ui_functional_test.test_hrm@5c90e579]" started-at="2021-05-10T05:50:10 CEST" name="afterMethod" finished-at="2021-05-10T05:50:10 CEST" duration-ms="274" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=login status=SUCCESS method=test_hrm.login(java.lang.String,java.lang.String)[pri:0, instance:ui_functional_test.test_hrm@5c90e579] output=Step Name : 
+Input User name, ---Description :Set value for username :admin, --- Step Status : Pass]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@410ae5ac]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="setUp(org.testng.ITestContext)[pri:0, instance:ui_functional_test.test_hrm@5c90e579]" started-at="2021-05-10T05:50:10 CEST" name="setUp" finished-at="2021-05-10T05:50:10 CEST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@410ae5ac]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Execution Log for TC : verify_add_employee]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verify_addnewemployee()[pri:0, instance:ui_functional_test.test_hrm@5c90e579]" started-at="2021-05-10T05:50:10 CEST" name="verify_addnewemployee" description="Verify Add Employee" finished-at="2021-05-10T05:50:20 CEST" duration-ms="10202" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"css selector","selector":"input#btnAdd"}
+  (Session info: chrome=90.0.4430.93)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'LAPTOP-9R8MK8BD', ip: '192.168.0.19', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\VIBHUS~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60493}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4ef570c7f2d3d71be47fed519ee65e7d
+*** Element info: {Using=css selector, value=input#btnAdd}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"input#btnAdd"}
+  (Session info: chrome=90.0.4430.93)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'LAPTOP-9R8MK8BD', ip: '192.168.0.19', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\VIBHUS~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60493}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4ef570c7f2d3d71be47fed519ee65e7d
+*** Element info: {Using=css selector, value=input#btnAdd}
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:78)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:420)
+at org.openqa.selenium.By$ByCssSelector.findElement(By.java:431)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at ui_functional_test.test_hrm.verify_addnewemployee(test_hrm.java:433)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[WebElement : PIM Module available.]]>
+            </line>
+            <line>
+              <![CDATA[Step Name : 
+WebElement : PIM Module, ---Description :WebElement : PIM ModuleExists, --- Step Status : Pass]]>
+            </line>
+            <line>
+              <![CDATA[Step Name : 
+Menu Item PIM Module, ---Description :Clicked PIM module on Home Page , --- Step Status : Pass]]>
+            </line>
+            <line>
+              <![CDATA[WebElement : Add Employee available.]]>
+            </line>
+            <line>
+              <![CDATA[Step Name : 
+WebElement : Add Employee, ---Description :WebElement : Add EmployeeExists, --- Step Status : Pass]]>
+            </line>
+            <line>
+              <![CDATA[WebElement : Input Box First Name  available.]]>
+            </line>
+            <line>
+              <![CDATA[Step Name : 
+WebElement : Input Box First Name , ---Description :WebElement : Input Box First Name Exists, --- Step Status : Pass]]>
+            </line>
+            <line>
+              <![CDATA[Step Name : 
+Textbox First Name, ---Description :First Name Set value :  Test, --- Step Status : Pass]]>
+            </line>
+            <line>
+              <![CDATA[WebElement : Input Box Last Name  available.]]>
+            </line>
+            <line>
+              <![CDATA[Step Name : 
+WebElement : Input Box Last Name , ---Description :WebElement : Input Box Last Name Exists, --- Step Status : Pass]]>
+            </line>
+            <line>
+              <![CDATA[Step Name : 
+Textbox First Name, ---Description :Last Name Set value :  Testing, --- Step Status : Pass]]>
+            </line>
+            <line>
+              <![CDATA[WebElement : Save Button available.]]>
+            </line>
+            <line>
+              <![CDATA[Step Name : 
+WebElement : Save Button, ---Description :WebElement : Save ButtonExists, --- Step Status : Pass]]>
+            </line>
+            <line>
+              <![CDATA[WebElement : Personal Details Page available.]]>
+            </line>
+            <line>
+              <![CDATA[Step Name : 
+WebElement : Personal Details Page, ---Description :WebElement : Personal Details PageExists, --- Step Status : Pass]]>
+            </line>
+            <line>
+              <![CDATA[WebElement : Edit Button available.]]>
+            </line>
+            <line>
+              <![CDATA[Step Name : 
+WebElement : Edit Button, ---Description :WebElement : Edit ButtonExists, --- Step Status : Pass]]>
+            </line>
+            <line>
+              <![CDATA[WebElement : SSN Number available.]]>
+            </line>
+            <line>
+              <![CDATA[Step Name : 
+WebElement : SSN Number, ---Description :WebElement : SSN NumberExists, --- Step Status : Pass]]>
+            </line>
+            <line>
+              <![CDATA[WebElement : Radio Button:Male available.]]>
+            </line>
+            <line>
+              <![CDATA[Step Name : 
+WebElement : Radio Button:Male, ---Description :WebElement : Radio Button:MaleExists, --- Step Status : Pass]]>
+            </line>
+            <line>
+              <![CDATA[Step Name : 
+Employee Personal Details Save Button, ---Description :Clicked on on Personal Details save button, --- Step Status : Pass]]>
+            </line>
+            <line>
+              <![CDATA[WebElement : Contact Details available.]]>
+            </line>
+            <line>
+              <![CDATA[Step Name : 
+WebElement : Contact Details, ---Description :WebElement : Contact DetailsExists, --- Step Status : Pass]]>
+            </line>
+            <line>
+              <![CDATA[WebElement : Emergency Contacts Page available.]]>
+            </line>
+            <line>
+              <![CDATA[Step Name : 
+WebElement : Emergency Contacts Page, ---Description :WebElement : Emergency Contacts PageExists, --- Step Status : Pass]]>
+            </line>
+            <line>
+              <![CDATA[Step Name : 
+Add Emergency Contact Button, ---Description :Add Emergency Cotact button visible, --- Step Status : Pass]]>
+            </line>
+            <line>
+              <![CDATA[WebElement : Add Emergency Contact Name Details available.]]>
+            </line>
+            <line>
+              <![CDATA[Step Name : 
+WebElement : Add Emergency Contact Name Details, ---Description :WebElement : Add Emergency Contact Name DetailsExists, --- Step Status : Pass]]>
+            </line>
+            <line>
+              <![CDATA[WebElement : Emergency Contact Relationship Details available.]]>
+            </line>
+            <line>
+              <![CDATA[Step Name : 
+WebElement : Emergency Contact Relationship Details, ---Description :WebElement : Emergency Contact Relationship DetailsExists, --- Step Status : Pass]]>
+            </line>
+            <line>
+              <![CDATA[WebElement : Emergency Contact Mobile Number Details available.]]>
+            </line>
+            <line>
+              <![CDATA[Step Name : 
+WebElement : Emergency Contact Mobile Number Details, ---Description :WebElement : Emergency Contact Mobile Number DetailsExists, --- Step Status : Pass]]>
+            </line>
+            <line>
+              <![CDATA[Step Name : 
+Employee Personal Details Save Button, ---Description :Save Emergency Contact, --- Step Status : Pass]]>
+            </line>
+            <line>
+              <![CDATA[WebElement : Dependents Page available.]]>
+            </line>
+            <line>
+              <![CDATA[Step Name : 
+WebElement : Dependents Page, ---Description :WebElement : Dependents PageExists, --- Step Status : Pass]]>
+            </line>
+            <line>
+              <![CDATA[WebElement : Dependent Name available.]]>
+            </line>
+            <line>
+              <![CDATA[Step Name : 
+WebElement : Dependent Name, ---Description :WebElement : Dependent NameExists, --- Step Status : Pass]]>
+            </line>
+            <line>
+              <![CDATA[Step Name : 
+Dependent Relationship, ---Description :Dropdown value : Child selected., --- Step Status : Pass]]>
+            </line>
+            <line>
+              <![CDATA[WebElement : Dependent Date Of Birth Details available.]]>
+            </line>
+            <line>
+              <![CDATA[Step Name : 
+WebElement : Dependent Date Of Birth Details, ---Description :WebElement : Dependent Date Of Birth DetailsExists, --- Step Status : Pass]]>
+            </line>
+            <line>
+              <![CDATA[WebElement : Immigration Details Page available.]]>
+            </line>
+            <line>
+              <![CDATA[Step Name : 
+WebElement : Immigration Details Page, ---Description :WebElement : Immigration Details PageExists, --- Step Status : Pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verify_addnewemployee -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult,org.testng.ITestContext)[pri:0, instance:ui_functional_test.test_hrm@5c90e579]" started-at="2021-05-10T05:50:20 CEST" name="afterMethod" finished-at="2021-05-10T05:50:20 CEST" duration-ms="46" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verify_addnewemployee status=FAILURE method=test_hrm.verify_addnewemployee()[pri:0, instance:ui_functional_test.test_hrm@5c90e579] output=WebElement : PIM Module available.]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@410ae5ac]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:ui_functional_test.test_hrm@5c90e579]" started-at="2021-05-10T05:50:20 CEST" name="afterTest" finished-at="2021-05-10T05:50:20 CEST" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- ui_functional_test.test_hrm -->
+    </test> <!-- verify_add_employee -->
+  </suite> <!-- SEB UI Assignment -->
+</testng-results>

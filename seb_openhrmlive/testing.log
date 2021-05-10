@@ -1,0 +1,1532 @@
+2021-05-09 18:25:24  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 18:25:24  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 18:25:25  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 18:25:25  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 18:25:25  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 18:25:25  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 18:25:25  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 18:25:25  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 18:25:25  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 18:25:25  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login_incorrect_credentials
+2021-05-09 18:25:25  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 18:25:35  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin123, --- Step Status : Pass
+2021-05-09 18:25:35  [ui_functional_test.test_hrm] (main:) Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass
+2021-05-09 18:29:44  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 18:29:44  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 18:29:45  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 18:29:45  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 18:29:45  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 18:29:45  [ui_functional_test.test_hrm] (TestNG-test=login-1:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 18:29:45  [ui_functional_test.test_hrm] (TestNG-test=login-1:) Execution Log for TC : login
+2021-05-09 18:29:45  [ui_functional_test.test_hrm] (TestNG-test=login-1:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 18:29:45  [ui_functional_test.test_hrm] (TestNG-test=login_incorrect_credentials-1:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 18:29:45  [ui_functional_test.test_hrm] (TestNG-test=login_incorrect_credentials-1:) Execution Log for TC : login_incorrect_credentials
+2021-05-09 18:29:45  [ui_functional_test.test_hrm] (TestNG-test=login_incorrect_credentials-1:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 18:29:51  [ui_functional_test.test_hrm] (TestNG-test=login_incorrect_credentials-1:) Step Name : 
+Input User name, ---Description :Set value for username :admin123, --- Step Status : Pass
+2021-05-09 18:29:52  [ui_functional_test.test_hrm] (TestNG-test=login_incorrect_credentials-1:) Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass
+2021-05-09 18:31:51  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 18:31:51  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 18:31:52  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 18:31:52  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 18:31:52  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 18:32:53  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 18:32:53  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 18:32:55  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 18:32:55  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 18:32:55  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 18:32:55  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 18:32:55  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 18:32:56  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 18:32:56  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 18:32:56  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 18:33:47  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 18:33:47  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 18:33:48  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 18:33:48  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 18:33:48  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 18:33:48  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 18:33:48  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 18:33:48  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 18:33:48  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 18:33:48  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login_incorrect_credentials
+2021-05-09 18:33:48  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 18:33:53  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin123, --- Step Status : Pass
+2021-05-09 18:33:53  [ui_functional_test.test_hrm] (main:) Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass
+2021-05-09 18:35:44  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 18:35:44  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 18:35:45  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 18:35:45  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 18:35:45  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 18:35:45  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 18:35:45  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 18:35:45  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 18:35:49  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin, --- Step Status : Pass
+2021-05-09 18:35:52  [ui_functional_test.test_hrm] (main:) Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass
+2021-05-09 18:35:52  [ui_functional_test.test_hrm] (main:) Step Name : 
+Welcome Page Displayed, ---Description :Welcome message displayed, --- Step Status : Pass
+2021-05-09 18:39:07  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 18:39:07  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 18:39:08  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 18:39:08  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 18:39:08  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 18:39:08  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 18:39:08  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 18:39:08  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 18:39:12  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin, --- Step Status : Pass
+2021-05-09 18:39:16  [ui_functional_test.test_hrm] (main:) Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass
+2021-05-09 18:39:16  [ui_functional_test.test_hrm] (main:) Step Name : 
+Welcome Page Displayed, ---Description :Welcome message displayed, --- Step Status : Pass
+2021-05-09 18:39:52  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 18:39:52  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 18:39:52  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 18:39:52  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 18:39:52  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 18:39:53  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 18:39:53  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 18:39:53  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 18:39:53  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 18:39:53  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login_incorrect_credentials
+2021-05-09 18:39:53  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 18:39:58  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin123, --- Step Status : Pass
+2021-05-09 18:39:59  [ui_functional_test.test_hrm] (main:) Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass
+2021-05-09 18:41:34  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 18:41:34  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 18:41:34  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 18:41:34  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 18:41:34  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 18:41:34  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 18:41:34  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 18:41:34  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 18:41:35  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 18:41:35  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login_incorrect_credentials
+2021-05-09 18:41:35  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 18:41:39  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin123, --- Step Status : Pass
+2021-05-09 18:41:40  [ui_functional_test.test_hrm] (main:) Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass
+2021-05-09 18:43:46  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 18:43:46  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 18:43:47  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 18:43:47  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 18:43:47  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 18:43:47  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 18:43:47  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 18:43:47  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 18:49:41  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 18:49:41  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 18:49:42  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 18:49:42  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 18:49:42  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 18:49:42  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 18:49:42  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 18:49:42  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 18:57:10  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 18:57:10  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 18:57:11  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 18:57:11  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 18:57:11  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 18:57:11  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 18:57:11  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 18:57:11  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 18:57:11  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 18:57:11  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login_invalid_credentials
+2021-05-09 18:57:11  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 18:57:15  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin123, --- Step Status : Pass
+2021-05-09 18:57:16  [ui_functional_test.test_hrm] (main:) Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass
+2021-05-09 18:57:16  [ui_functional_test.test_hrm] (main:) WebElement : Invalid Credentials Error Message available.
+2021-05-09 18:57:16  [ui_functional_test.test_hrm] (main:) Step Name : 
+Validate 'Invalid Credentials' Displayed, ---Description :Error Message : Invalid Credentials displayed, --- Step Status : Pass
+2021-05-09 19:04:42  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 19:04:42  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 19:04:42  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 19:04:42  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 19:04:42  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 19:04:42  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:04:42  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 19:04:42  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:04:42  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:04:42  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login_invalid_credentials
+2021-05-09 19:04:42  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:04:47  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin123, --- Step Status : Pass
+2021-05-09 19:04:50  [ui_functional_test.test_hrm] (main:) Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass
+2021-05-09 19:04:50  [ui_functional_test.test_hrm] (main:) WebElement : Invalid Credentials Error Message available.
+2021-05-09 19:04:50  [ui_functional_test.test_hrm] (main:) Step Name : 
+Validate 'Invalid Credentials' Displayed, ---Description :Error Message : Invalid Credentials displayed, --- Step Status : Pass
+2021-05-09 19:14:02  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 19:14:02  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 19:14:02  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 19:14:02  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 19:14:03  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 19:14:03  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:14:03  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 19:14:03  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:14:03  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:14:03  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login_invalid_credentials
+2021-05-09 19:14:03  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:14:11  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin123, --- Step Status : Pass
+2021-05-09 19:14:13  [ui_functional_test.test_hrm] (main:) Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass
+2021-05-09 19:14:13  [ui_functional_test.test_hrm] (main:) WebElement : Invalid Credentials Error Message available.
+2021-05-09 19:14:13  [ui_functional_test.test_hrm] (main:) Step Name : 
+Validate 'Invalid Credentials' Displayed, ---Description :Error Message : Invalid Credentials displayed, --- Step Status : Pass
+2021-05-09 19:14:55  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 19:14:55  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 19:14:56  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 19:14:56  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 19:14:56  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 19:14:56  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:14:56  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 19:14:56  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:14:56  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:14:56  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login_invalid_credentials
+2021-05-09 19:14:56  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:15:07  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin123, --- Step Status : Pass
+2021-05-09 19:15:08  [ui_functional_test.test_hrm] (main:) Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass
+2021-05-09 19:15:08  [ui_functional_test.test_hrm] (main:) WebElement : Invalid Credentials Error Message available.
+2021-05-09 19:15:08  [ui_functional_test.test_hrm] (main:) Step Name : 
+Validate 'Invalid Credentials' Displayed, ---Description :Error Message : Invalid Credentials displayed, --- Step Status : Pass
+2021-05-09 19:18:51  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 19:18:51  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 19:18:52  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 19:18:52  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 19:18:52  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 19:18:52  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:18:52  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 19:18:52  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:18:52  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:18:52  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login_invalid_credentials
+2021-05-09 19:18:52  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:19:00  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin123, --- Step Status : Pass
+2021-05-09 19:19:00  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Exception
+ Cause: nullMessage : Cannot invoke "com.relevantcodes.extentreports.ExtentTest.log(com.relevantcodes.extentreports.LogStatus, String)" because "this.extent_log" is null, --- Step Status : Fail
+2021-05-09 19:19:48  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 19:19:48  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 19:19:49  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 19:19:49  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 19:19:49  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 19:19:49  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:19:49  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 19:19:49  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:20:17  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin, --- Step Status : Pass
+2021-05-09 19:20:18  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Exception
+ Cause: nullMessage : Cannot invoke "com.relevantcodes.extentreports.ExtentTest.log(com.relevantcodes.extentreports.LogStatus, String)" because "this.extent_log" is null, --- Step Status : Fail
+2021-05-09 19:20:19  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:20:19  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login_invalid_credentials
+2021-05-09 19:20:19  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:20:43  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin123, --- Step Status : Pass
+2021-05-09 19:20:43  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Exception
+ Cause: nullMessage : Cannot invoke "com.relevantcodes.extentreports.ExtentTest.log(com.relevantcodes.extentreports.LogStatus, String)" because "this.extent_log" is null, --- Step Status : Fail
+2021-05-09 19:24:29  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 19:24:29  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 19:24:30  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 19:24:30  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 19:24:30  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 19:24:30  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:24:30  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 19:24:30  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:24:40  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin, --- Step Status : Pass
+2021-05-09 19:24:43  [ui_functional_test.test_hrm] (main:) Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass
+2021-05-09 19:24:43  [ui_functional_test.test_hrm] (main:) Step Name : 
+Welcome Page Displayed, ---Description :Welcome message displayed, --- Step Status : Pass
+2021-05-09 19:24:46  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 19:24:46  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 19:24:46  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 19:24:46  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 19:24:46  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 19:24:46  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:24:46  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login_invalid_credentials
+2021-05-09 19:24:46  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:24:46  [ui_functional_test.test_hrm] (main:) Not able to create driver for chrome
+ Exception Cause : java.net.ConnectException: Failed to connect to localhost/[0:0:0:0:0:0:0:1]:44020Exception Message : java.net.ConnectException: Failed to connect to localhost/[0:0:0:0:0:0:0:1]:44020
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'LAPTOP-9R8MK8BD', ip: '192.168.0.19', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: driver.version: ChromeDriver
+2021-05-09 19:27:39  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 19:27:39  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 19:27:40  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 19:27:40  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 19:27:40  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 19:27:40  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:27:40  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 19:27:40  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:27:45  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin, --- Step Status : Pass
+2021-05-09 19:27:48  [ui_functional_test.test_hrm] (main:) Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass
+2021-05-09 19:27:49  [ui_functional_test.test_hrm] (main:) Step Name : 
+Welcome Page Displayed, ---Description :Welcome message displayed, --- Step Status : Pass
+2021-05-09 19:27:51  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 19:27:51  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 19:27:51  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 19:27:51  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 19:27:51  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 19:27:51  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:27:51  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login_invalid_credentials
+2021-05-09 19:27:51  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:28:11  [ui_functional_test.test_hrm] (main:) Not able to create driver for chrome
+ Exception Cause : org.openqa.selenium.net.UrlChecker$TimeoutException: Timed out waiting for [http://localhost:30540/status] to be available after 20015 msException Message : Timed out waiting for driver server to start.
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'LAPTOP-9R8MK8BD', ip: '192.168.0.19', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: driver.version: ChromeDriver
+2021-05-09 19:29:58  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 19:29:58  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 19:29:59  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 19:29:59  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 19:29:59  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 19:29:59  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:29:59  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 19:29:59  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:30:04  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin, --- Step Status : Pass
+2021-05-09 19:30:07  [ui_functional_test.test_hrm] (main:) Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass
+2021-05-09 19:30:07  [ui_functional_test.test_hrm] (main:) Step Name : 
+Welcome Page Displayed, ---Description :Welcome message displayed, --- Step Status : Pass
+2021-05-09 19:33:01  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 19:33:01  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 19:33:02  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 19:33:02  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 19:33:02  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 19:33:02  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:33:02  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 19:33:02  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:33:07  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin, --- Step Status : Pass
+2021-05-09 19:33:10  [ui_functional_test.test_hrm] (main:) Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass
+2021-05-09 19:33:10  [ui_functional_test.test_hrm] (main:) Step Name : 
+Welcome Page Displayed, ---Description :Welcome message displayed, --- Step Status : Pass
+2021-05-09 19:33:11  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 19:33:11  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 19:33:11  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 19:33:12  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 19:33:12  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 19:33:12  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:33:12  [ui_functional_test.test_hrm] (main:) Execution Log for TC : verify_add_employee
+2021-05-09 19:33:12  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:33:12  [ui_functional_test.test_hrm] (main:) Not able to create driver for chrome
+ Exception Cause : java.net.ConnectException: Failed to connect to localhost/[0:0:0:0:0:0:0:1]:22882Exception Message : java.net.ConnectException: Failed to connect to localhost/[0:0:0:0:0:0:0:1]:22882
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'LAPTOP-9R8MK8BD', ip: '192.168.0.19', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: driver.version: ChromeDriver
+2021-05-09 19:35:10  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 19:35:10  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 19:35:11  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 19:35:11  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 19:35:11  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 19:35:11  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:35:11  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 19:35:11  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:35:17  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin, --- Step Status : Pass
+2021-05-09 19:35:19  [ui_functional_test.test_hrm] (main:) Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass
+2021-05-09 19:35:20  [ui_functional_test.test_hrm] (main:) Step Name : 
+Welcome Page Displayed, ---Description :Welcome message displayed, --- Step Status : Pass
+2021-05-09 19:35:22  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 19:35:22  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 19:35:22  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 19:35:22  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 19:35:22  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 19:35:22  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:35:22  [ui_functional_test.test_hrm] (main:) Execution Log for TC : verify_add_employee
+2021-05-09 19:35:22  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:35:42  [ui_functional_test.test_hrm] (main:) Not able to create driver for chrome
+ Exception Cause : org.openqa.selenium.net.UrlChecker$TimeoutException: Timed out waiting for [http://localhost:36948/status] to be available after 20010 msException Message : Timed out waiting for driver server to start.
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'LAPTOP-9R8MK8BD', ip: '192.168.0.19', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: driver.version: ChromeDriver
+2021-05-09 19:36:21  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 19:36:21  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 19:36:22  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 19:36:22  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 19:36:22  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 19:36:22  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:36:22  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 19:36:22  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:36:27  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin, --- Step Status : Pass
+2021-05-09 19:36:31  [ui_functional_test.test_hrm] (main:) Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass
+2021-05-09 19:36:31  [ui_functional_test.test_hrm] (main:) Step Name : 
+Welcome Page Displayed, ---Description :Welcome message displayed, --- Step Status : Pass
+2021-05-09 19:36:34  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 19:36:34  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 19:36:34  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 19:36:34  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 19:36:34  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 19:36:34  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:36:34  [ui_functional_test.test_hrm] (main:) Execution Log for TC : verify_add_employee
+2021-05-09 19:36:34  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:36:54  [ui_functional_test.test_hrm] (main:) Not able to create driver for chrome
+ Exception Cause : org.openqa.selenium.net.UrlChecker$TimeoutException: Timed out waiting for [http://localhost:31108/status] to be available after 20008 msException Message : Timed out waiting for driver server to start.
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'LAPTOP-9R8MK8BD', ip: '192.168.0.19', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: driver.version: ChromeDriver
+2021-05-09 19:42:16  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 19:42:16  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 19:42:16  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 19:42:16  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 19:42:16  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 19:42:16  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:42:16  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 19:42:16  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:42:21  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin, --- Step Status : Pass
+2021-05-09 19:42:24  [ui_functional_test.test_hrm] (main:) Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass
+2021-05-09 19:42:24  [ui_functional_test.test_hrm] (main:) Step Name : 
+Welcome Page Displayed, ---Description :Welcome message displayed, --- Step Status : Pass
+2021-05-09 19:42:26  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 19:42:26  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 19:42:26  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 19:42:26  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 19:42:26  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 19:42:26  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:42:26  [ui_functional_test.test_hrm] (main:) Execution Log for TC : verify_add_employee
+2021-05-09 19:42:26  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:42:27  [ui_functional_test.test_hrm] (main:) Not able to create driver for chrome
+ Exception Cause : java.net.ConnectException: Failed to connect to localhost/[0:0:0:0:0:0:0:1]:15090Exception Message : java.net.ConnectException: Failed to connect to localhost/[0:0:0:0:0:0:0:1]:15090
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'LAPTOP-9R8MK8BD', ip: '192.168.0.19', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: driver.version: ChromeDriver
+2021-05-09 19:46:16  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 19:46:16  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 19:46:17  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 19:46:17  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 19:46:17  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 19:46:17  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:46:17  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 19:46:17  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:46:23  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin, --- Step Status : Pass
+2021-05-09 19:46:26  [ui_functional_test.test_hrm] (main:) Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass
+2021-05-09 19:46:27  [ui_functional_test.test_hrm] (main:) Step Name : 
+Welcome Page Displayed, ---Description :Welcome message displayed, --- Step Status : Pass
+2021-05-09 19:46:29  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 19:46:29  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 19:46:29  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 19:46:29  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 19:46:29  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 19:46:29  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 19:46:29  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 19:46:29  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 19:46:29  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 19:46:29  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 19:46:29  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:46:29  [ui_functional_test.test_hrm] (main:) Execution Log for TC : verify_add_employee
+2021-05-09 19:46:29  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 19:46:29  [ui_functional_test.test_hrm] (main:) Not able to create driver for chrome
+ Exception Cause : java.net.ConnectException: Failed to connect to localhost/[0:0:0:0:0:0:0:1]:1155Exception Message : java.net.ConnectException: Failed to connect to localhost/[0:0:0:0:0:0:0:1]:1155
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'LAPTOP-9R8MK8BD', ip: '192.168.0.19', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: driver.version: ChromeDriver
+2021-05-09 20:05:34  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 20:05:34  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 20:05:35  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 20:05:35  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 20:05:35  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 20:05:35  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:05:35  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 20:05:35  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:05:41  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin, --- Step Status : Pass
+2021-05-09 20:05:44  [ui_functional_test.test_hrm] (main:) Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass
+2021-05-09 20:05:44  [ui_functional_test.test_hrm] (main:) Step Name : 
+Welcome Page Displayed, ---Description :Welcome message displayed, --- Step Status : Pass
+2021-05-09 20:05:46  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:05:46  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 20:05:46  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:05:55  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 20:05:55  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 20:05:55  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 20:05:55  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 20:05:55  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 20:05:55  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:05:55  [ui_functional_test.test_hrm] (main:) Execution Log for TC : verify_add_employee
+2021-05-09 20:05:55  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:07:18  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 20:07:18  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 20:07:19  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 20:07:19  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 20:07:19  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 20:07:19  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:07:19  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 20:07:19  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:07:24  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin, --- Step Status : Pass
+2021-05-09 20:07:27  [ui_functional_test.test_hrm] (main:) Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass
+2021-05-09 20:07:27  [ui_functional_test.test_hrm] (main:) Step Name : 
+Welcome Page Displayed, ---Description :Welcome message displayed, --- Step Status : Pass
+2021-05-09 20:07:29  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:07:29  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 20:07:29  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:07:39  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 20:07:39  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 20:07:39  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 20:07:39  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 20:07:39  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 20:07:39  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:07:39  [ui_functional_test.test_hrm] (main:) Execution Log for TC : verify_add_employee
+2021-05-09 20:07:39  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:07:39  [ui_functional_test.test_hrm] (main:) Not able to create driver for chrome
+ Exception Cause : java.net.ConnectException: Failed to connect to localhost/[0:0:0:0:0:0:0:1]:35819Exception Message : java.net.ConnectException: Failed to connect to localhost/[0:0:0:0:0:0:0:1]:35819
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'LAPTOP-9R8MK8BD', ip: '192.168.0.19', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: driver.version: ChromeDriver
+2021-05-09 20:10:06  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 20:10:06  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 20:10:06  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 20:10:07  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 20:10:07  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 20:10:07  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:10:07  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 20:10:07  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:10:11  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin, --- Step Status : Pass
+2021-05-09 20:10:14  [ui_functional_test.test_hrm] (main:) Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass
+2021-05-09 20:10:14  [ui_functional_test.test_hrm] (main:) Step Name : 
+Welcome Page Displayed, ---Description :Welcome message displayed, --- Step Status : Pass
+2021-05-09 20:10:16  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:10:16  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 20:10:16  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:10:20  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 20:10:20  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 20:10:20  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 20:10:20  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 20:10:20  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 20:10:20  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:10:20  [ui_functional_test.test_hrm] (main:) Execution Log for TC : verify_add_employee
+2021-05-09 20:10:20  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:10:40  [ui_functional_test.test_hrm] (main:) Not able to create driver for chrome
+ Exception Cause : org.openqa.selenium.net.UrlChecker$TimeoutException: Timed out waiting for [http://localhost:22363/status] to be available after 20009 msException Message : Timed out waiting for driver server to start.
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'LAPTOP-9R8MK8BD', ip: '192.168.0.19', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: driver.version: ChromeDriver
+2021-05-09 20:12:58  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 20:12:58  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 20:12:58  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 20:12:58  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 20:12:58  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 20:12:58  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:12:58  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 20:12:58  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:13:03  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin, --- Step Status : Pass
+2021-05-09 20:13:05  [ui_functional_test.test_hrm] (main:) Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass
+2021-05-09 20:13:05  [ui_functional_test.test_hrm] (main:) Step Name : 
+Welcome Page Displayed, ---Description :Welcome message displayed, --- Step Status : Pass
+2021-05-09 20:13:07  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:13:07  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 20:13:07  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:13:12  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 20:13:12  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 20:13:12  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 20:13:12  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 20:13:12  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 20:13:12  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:13:12  [ui_functional_test.test_hrm] (main:) Execution Log for TC : verify_add_employee
+2021-05-09 20:13:12  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:13:32  [ui_functional_test.test_hrm] (main:) Not able to create driver for chrome
+ Exception Cause : org.openqa.selenium.net.UrlChecker$TimeoutException: Timed out waiting for [http://localhost:6547/status] to be available after 20015 msException Message : Timed out waiting for driver server to start.
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'LAPTOP-9R8MK8BD', ip: '192.168.0.19', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: driver.version: ChromeDriver
+2021-05-09 20:18:04  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 20:18:04  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 20:18:04  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 20:18:04  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 20:18:04  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 20:18:04  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:18:04  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 20:18:04  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:18:09  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin, --- Step Status : Pass
+2021-05-09 20:18:11  [ui_functional_test.test_hrm] (main:) Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass
+2021-05-09 20:18:11  [ui_functional_test.test_hrm] (main:) Step Name : 
+Welcome Page Displayed, ---Description :Welcome message displayed, --- Step Status : Pass
+2021-05-09 20:18:13  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 20:18:13  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 20:18:13  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 20:18:13  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 20:18:13  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 20:18:13  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:18:13  [ui_functional_test.test_hrm] (main:) Execution Log for TC : verify_add_employee
+2021-05-09 20:18:13  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:18:33  [ui_functional_test.test_hrm] (main:) Not able to create driver for chrome
+ Exception Cause : org.openqa.selenium.net.UrlChecker$TimeoutException: Timed out waiting for [http://localhost:16780/status] to be available after 20012 msException Message : Timed out waiting for driver server to start.
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'LAPTOP-9R8MK8BD', ip: '192.168.0.19', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: driver.version: ChromeDriver
+2021-05-09 20:19:46  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 20:19:46  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 20:19:46  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 20:19:46  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 20:19:46  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 20:19:46  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:19:46  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 20:19:46  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:19:51  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin, --- Step Status : Pass
+2021-05-09 20:19:53  [ui_functional_test.test_hrm] (main:) Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass
+2021-05-09 20:19:53  [ui_functional_test.test_hrm] (main:) Step Name : 
+Welcome Page Displayed, ---Description :Welcome message displayed, --- Step Status : Pass
+2021-05-09 20:19:55  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 20:19:55  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 20:19:55  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 20:19:56  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 20:19:56  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 20:19:56  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:19:56  [ui_functional_test.test_hrm] (main:) Execution Log for TC : verify_add_employee
+2021-05-09 20:19:56  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:20:16  [ui_functional_test.test_hrm] (main:) Not able to create driver for chrome
+ Exception Cause : org.openqa.selenium.net.UrlChecker$TimeoutException: Timed out waiting for [http://localhost:32214/status] to be available after 20015 msException Message : Timed out waiting for driver server to start.
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'LAPTOP-9R8MK8BD', ip: '192.168.0.19', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: driver.version: ChromeDriver
+2021-05-09 20:21:24  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 20:21:24  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 20:21:24  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 20:21:24  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 20:21:24  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 20:21:24  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:21:24  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 20:21:24  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:21:29  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin, --- Step Status : Pass
+2021-05-09 20:21:31  [ui_functional_test.test_hrm] (main:) Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass
+2021-05-09 20:21:31  [ui_functional_test.test_hrm] (main:) Step Name : 
+Welcome Page Displayed, ---Description :Welcome message displayed, --- Step Status : Pass
+2021-05-09 20:21:34  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 20:21:34  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 20:21:34  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 20:21:34  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 20:21:34  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 20:21:34  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:21:34  [ui_functional_test.test_hrm] (main:) Execution Log for TC : verify_add_employee
+2021-05-09 20:21:34  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:21:54  [ui_functional_test.test_hrm] (main:) Not able to create driver for chrome
+ Exception Cause : org.openqa.selenium.net.UrlChecker$TimeoutException: Timed out waiting for [http://localhost:16366/status] to be available after 20005 msException Message : Timed out waiting for driver server to start.
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'LAPTOP-9R8MK8BD', ip: '192.168.0.19', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: driver.version: ChromeDriver
+2021-05-09 20:22:45  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 20:22:45  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 20:22:46  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 20:22:46  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 20:22:46  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 20:22:46  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:22:46  [ui_functional_test.test_hrm] (main:) Execution Log for TC : verify_add_employee
+2021-05-09 20:22:46  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:22:50  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin, --- Step Status : Pass
+2021-05-09 20:22:53  [ui_functional_test.test_hrm] (main:) Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass
+2021-05-09 20:22:53  [ui_functional_test.test_hrm] (main:) Step Name : 
+Welcome Page Displayed, ---Description :Welcome message displayed, --- Step Status : Pass
+2021-05-09 20:22:56  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:22:56  [ui_functional_test.test_hrm] (main:) Execution Log for TC : verify_add_employee
+2021-05-09 20:22:56  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:35:15  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 20:35:15  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 20:35:15  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 20:35:15  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 20:35:15  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 20:35:15  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:35:15  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 20:35:15  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:35:20  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin, --- Step Status : Pass
+2021-05-09 20:35:22  [ui_functional_test.test_hrm] (main:) Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass
+2021-05-09 20:35:22  [ui_functional_test.test_hrm] (main:) Step Name : 
+Welcome Page Displayed, ---Description :Welcome message displayed, --- Step Status : Pass
+2021-05-09 20:35:24  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:35:24  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 20:35:24  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:40:39  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 20:40:39  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 20:40:39  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 20:40:39  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 20:40:39  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 20:40:39  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:40:39  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 20:40:39  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:40:44  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin, --- Step Status : Pass
+2021-05-09 20:40:47  [ui_functional_test.test_hrm] (main:) Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass
+2021-05-09 20:40:47  [ui_functional_test.test_hrm] (main:) Step Name : 
+Welcome Page Displayed, ---Description :Welcome message displayed, --- Step Status : Pass
+2021-05-09 20:40:49  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:40:49  [ui_functional_test.test_hrm] (main:) Execution Log for TC : verify_add_employee
+2021-05-09 20:40:49  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:41:47  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 20:41:47  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 20:41:48  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 20:41:48  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 20:41:48  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 20:41:48  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:41:48  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 20:41:48  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:41:53  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin, --- Step Status : Pass
+2021-05-09 20:41:55  [ui_functional_test.test_hrm] (main:) Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass
+2021-05-09 20:41:55  [ui_functional_test.test_hrm] (main:) Step Name : 
+Welcome Page Displayed, ---Description :Welcome message displayed, --- Step Status : Pass
+2021-05-09 20:41:59  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 20:41:59  [ui_functional_test.test_hrm] (main:) Execution Log for TC : verify_add_employee
+2021-05-09 20:41:59  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 21:01:28  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 21:01:28  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 21:01:29  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 21:01:29  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 21:01:29  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 21:01:29  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 21:01:29  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 21:01:29  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 21:01:34  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin, --- Step Status : Pass
+2021-05-09 21:01:38  [ui_functional_test.test_hrm] (main:) Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass
+2021-05-09 21:01:38  [ui_functional_test.test_hrm] (main:) Step Name : 
+Welcome Page Displayed, ---Description :Welcome message displayed, --- Step Status : Pass
+2021-05-09 21:01:40  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 21:01:40  [ui_functional_test.test_hrm] (main:) Execution Log for TC : verify_add_employee
+2021-05-09 21:01:40  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 21:04:36  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 21:04:36  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 21:04:36  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 21:04:36  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 21:04:36  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 21:07:59  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 21:07:59  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 21:07:59  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 21:07:59  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 21:08:00  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 21:11:09  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 21:11:09  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 21:11:09  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 21:11:09  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 21:11:09  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 21:12:13  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 21:12:13  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 21:12:14  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 21:12:14  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 21:12:14  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 21:12:18  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 21:12:18  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 21:12:18  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 21:12:19  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin, --- Step Status : Pass
+2021-05-09 21:12:23  [ui_functional_test.test_hrm] (main:) Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass
+2021-05-09 21:12:23  [ui_functional_test.test_hrm] (main:) Step Name : 
+Welcome Page Displayed, ---Description :Welcome message displayed, --- Step Status : Pass
+2021-05-09 21:12:25  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 21:12:25  [ui_functional_test.test_hrm] (main:) Execution Log for TC : verify_add_employee
+2021-05-09 21:12:25  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 21:12:25  [ui_functional_test.test_hrm] (main:) WebElement : PIM Module available.
+2021-05-09 21:12:25  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : PIM Module, ---Description :WebElement : PIM ModuleExists, --- Step Status : Pass
+2021-05-09 21:12:26  [ui_functional_test.test_hrm] (main:) Step Name : 
+Menu Item PIM Module, ---Description :Clicked PIM module on Home Page , --- Step Status : Pass
+2021-05-09 21:12:26  [ui_functional_test.test_hrm] (main:) WebElement : Add Employee available.
+2021-05-09 21:12:26  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Add Employee, ---Description :WebElement : Add EmployeeExists, --- Step Status : Pass
+2021-05-09 21:13:55  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 21:13:55  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 21:13:56  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 21:13:56  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 21:13:56  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 21:14:01  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 21:14:01  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 21:14:01  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 21:14:02  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin, --- Step Status : Pass
+2021-05-09 21:14:04  [ui_functional_test.test_hrm] (main:) Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass
+2021-05-09 21:14:04  [ui_functional_test.test_hrm] (main:) Step Name : 
+Welcome Page Displayed, ---Description :Welcome message displayed, --- Step Status : Pass
+2021-05-09 21:14:06  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 21:14:06  [ui_functional_test.test_hrm] (main:) Execution Log for TC : verify_add_employee
+2021-05-09 21:14:06  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 21:14:06  [ui_functional_test.test_hrm] (main:) WebElement : PIM Module available.
+2021-05-09 21:14:06  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : PIM Module, ---Description :WebElement : PIM ModuleExists, --- Step Status : Pass
+2021-05-09 21:14:06  [ui_functional_test.test_hrm] (main:) Step Name : 
+Menu Item PIM Module, ---Description :Clicked PIM module on Home Page , --- Step Status : Pass
+2021-05-09 21:14:06  [ui_functional_test.test_hrm] (main:) WebElement : Add Employee available.
+2021-05-09 21:14:06  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Add Employee, ---Description :WebElement : Add EmployeeExists, --- Step Status : Pass
+2021-05-09 21:16:19  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 21:16:19  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 21:16:20  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 21:16:20  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 21:16:20  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 21:16:25  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 21:16:25  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 21:16:25  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 21:16:26  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin, --- Step Status : Pass
+2021-05-09 21:16:28  [ui_functional_test.test_hrm] (main:) Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass
+2021-05-09 21:16:29  [ui_functional_test.test_hrm] (main:) Step Name : 
+Welcome Page Displayed, ---Description :Welcome message displayed, --- Step Status : Pass
+2021-05-09 21:16:30  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 21:16:30  [ui_functional_test.test_hrm] (main:) Execution Log for TC : verify_add_employee
+2021-05-09 21:16:30  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 21:16:30  [ui_functional_test.test_hrm] (main:) WebElement : PIM Module available.
+2021-05-09 21:16:30  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : PIM Module, ---Description :WebElement : PIM ModuleExists, --- Step Status : Pass
+2021-05-09 21:16:31  [ui_functional_test.test_hrm] (main:) Step Name : 
+Menu Item PIM Module, ---Description :Clicked PIM module on Home Page , --- Step Status : Pass
+2021-05-09 21:16:31  [ui_functional_test.test_hrm] (main:) WebElement : Add Employee available.
+2021-05-09 21:16:31  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Add Employee, ---Description :WebElement : Add EmployeeExists, --- Step Status : Pass
+2021-05-09 21:18:10  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 21:18:10  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 21:18:10  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 21:18:10  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 21:18:10  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 21:18:15  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 21:18:15  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 21:18:15  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 21:18:16  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin, --- Step Status : Pass
+2021-05-09 21:18:19  [ui_functional_test.test_hrm] (main:) Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass
+2021-05-09 21:18:19  [ui_functional_test.test_hrm] (main:) Step Name : 
+Welcome Page Displayed, ---Description :Welcome message displayed, --- Step Status : Pass
+2021-05-09 21:18:20  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 21:18:20  [ui_functional_test.test_hrm] (main:) Execution Log for TC : verify_add_employee
+2021-05-09 21:18:20  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 21:18:20  [ui_functional_test.test_hrm] (main:) WebElement : PIM Module available.
+2021-05-09 21:18:20  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : PIM Module, ---Description :WebElement : PIM ModuleExists, --- Step Status : Pass
+2021-05-09 21:18:21  [ui_functional_test.test_hrm] (main:) Step Name : 
+Menu Item PIM Module, ---Description :Clicked PIM module on Home Page , --- Step Status : Pass
+2021-05-09 21:18:21  [ui_functional_test.test_hrm] (main:) WebElement : Add Employee available.
+2021-05-09 21:18:21  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Add Employee, ---Description :WebElement : Add EmployeeExists, --- Step Status : Pass
+2021-05-09 21:20:55  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 21:20:55  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 21:20:56  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 21:20:56  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 21:20:56  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 21:21:01  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 21:21:01  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 21:21:01  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 21:21:02  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin, --- Step Status : Pass
+2021-05-09 21:21:05  [ui_functional_test.test_hrm] (main:) Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass
+2021-05-09 21:21:05  [ui_functional_test.test_hrm] (main:) Step Name : 
+Welcome Page Displayed, ---Description :Welcome message displayed, --- Step Status : Pass
+2021-05-09 21:21:06  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 21:21:06  [ui_functional_test.test_hrm] (main:) Execution Log for TC : verify_add_employee
+2021-05-09 21:21:06  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 21:21:06  [ui_functional_test.test_hrm] (main:) WebElement : PIM Module available.
+2021-05-09 21:21:06  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : PIM Module, ---Description :WebElement : PIM ModuleExists, --- Step Status : Pass
+2021-05-09 21:21:07  [ui_functional_test.test_hrm] (main:) Step Name : 
+Menu Item PIM Module, ---Description :Clicked PIM module on Home Page , --- Step Status : Pass
+2021-05-09 21:21:07  [ui_functional_test.test_hrm] (main:) WebElement : Add Employee available.
+2021-05-09 21:21:07  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Add Employee, ---Description :WebElement : Add EmployeeExists, --- Step Status : Pass
+2021-05-09 21:32:13  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 21:32:13  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 21:32:13  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 21:32:13  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 21:32:13  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 21:32:19  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 21:32:19  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 21:32:19  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 21:32:20  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin, --- Step Status : Pass
+2021-05-09 21:32:23  [ui_functional_test.test_hrm] (main:) Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass
+2021-05-09 21:32:23  [ui_functional_test.test_hrm] (main:) Step Name : 
+Welcome Page Displayed, ---Description :Welcome message displayed, --- Step Status : Pass
+2021-05-09 21:32:25  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 21:32:25  [ui_functional_test.test_hrm] (main:) Execution Log for TC : verify_add_employee
+2021-05-09 21:32:25  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 21:32:25  [ui_functional_test.test_hrm] (main:) WebElement : PIM Module available.
+2021-05-09 21:32:25  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : PIM Module, ---Description :WebElement : PIM ModuleExists, --- Step Status : Pass
+2021-05-09 21:32:26  [ui_functional_test.test_hrm] (main:) Step Name : 
+Menu Item PIM Module, ---Description :Clicked PIM module on Home Page , --- Step Status : Pass
+2021-05-09 21:32:26  [ui_functional_test.test_hrm] (main:) WebElement : Add Employee available.
+2021-05-09 21:32:26  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Add Employee, ---Description :WebElement : Add EmployeeExists, --- Step Status : Pass
+2021-05-09 21:32:26  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Add Employee Page, ---Description :WebElement : Add Employee PageExists, --- Step Status : Fail
+2021-05-09 21:34:35  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 21:34:35  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 21:34:35  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 21:34:35  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 21:34:36  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 21:34:41  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 21:34:41  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 21:34:41  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 21:34:41  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin, --- Step Status : Pass
+2021-05-09 21:34:44  [ui_functional_test.test_hrm] (main:) Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass
+2021-05-09 21:34:44  [ui_functional_test.test_hrm] (main:) Step Name : 
+Welcome Page Displayed, ---Description :Welcome message displayed, --- Step Status : Pass
+2021-05-09 21:34:46  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 21:34:46  [ui_functional_test.test_hrm] (main:) Execution Log for TC : verify_add_employee
+2021-05-09 21:34:46  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 21:34:46  [ui_functional_test.test_hrm] (main:) WebElement : PIM Module available.
+2021-05-09 21:34:46  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : PIM Module, ---Description :WebElement : PIM ModuleExists, --- Step Status : Pass
+2021-05-09 21:34:47  [ui_functional_test.test_hrm] (main:) Step Name : 
+Menu Item PIM Module, ---Description :Clicked PIM module on Home Page , --- Step Status : Pass
+2021-05-09 21:34:47  [ui_functional_test.test_hrm] (main:) WebElement : Add Employee available.
+2021-05-09 21:34:47  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Add Employee, ---Description :WebElement : Add EmployeeExists, --- Step Status : Pass
+2021-05-09 21:34:47  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Add Employee Page, ---Description :WebElement : Add Employee PageExists, --- Step Status : Fail
+2021-05-09 21:38:08  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-09 21:38:08  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-09 21:38:08  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-09 21:38:08  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-09 21:38:08  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-09 21:38:13  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 21:38:13  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-09 21:38:13  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 21:38:13  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin, --- Step Status : Pass
+2021-05-09 21:38:16  [ui_functional_test.test_hrm] (main:) Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass
+2021-05-09 21:38:16  [ui_functional_test.test_hrm] (main:) Step Name : 
+Welcome Page Displayed, ---Description :Welcome message displayed, --- Step Status : Pass
+2021-05-09 21:38:18  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 21:38:18  [ui_functional_test.test_hrm] (main:) Execution Log for TC : verify_add_employee
+2021-05-09 21:38:18  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-09 21:38:18  [ui_functional_test.test_hrm] (main:) WebElement : PIM Module available.
+2021-05-09 21:38:18  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : PIM Module, ---Description :WebElement : PIM ModuleExists, --- Step Status : Pass
+2021-05-09 21:38:19  [ui_functional_test.test_hrm] (main:) Step Name : 
+Menu Item PIM Module, ---Description :Clicked PIM module on Home Page , --- Step Status : Pass
+2021-05-09 21:38:19  [ui_functional_test.test_hrm] (main:) WebElement : Add Employee available.
+2021-05-09 21:38:19  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Add Employee, ---Description :WebElement : Add EmployeeExists, --- Step Status : Pass
+2021-05-09 21:38:19  [ui_functional_test.test_hrm] (main:) WebElement : First Name  available.
+2021-05-09 21:38:19  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : First Name , ---Description :WebElement : First Name Exists, --- Step Status : Pass
+2021-05-10 05:07:12  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-10 05:07:12  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-10 05:07:13  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-10 05:07:13  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-10 05:07:13  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-10 05:07:23  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-10 05:07:23  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-10 05:07:23  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-10 05:07:24  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin, --- Step Status : Pass
+2021-05-10 05:07:27  [ui_functional_test.test_hrm] (main:) Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass
+2021-05-10 05:07:27  [ui_functional_test.test_hrm] (main:) Step Name : 
+Welcome Page Displayed, ---Description :Welcome message displayed, --- Step Status : Pass
+2021-05-10 05:07:29  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-10 05:07:29  [ui_functional_test.test_hrm] (main:) Execution Log for TC : verify_add_employee
+2021-05-10 05:07:29  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-10 05:07:29  [ui_functional_test.test_hrm] (main:) WebElement : PIM Module available.
+2021-05-10 05:07:29  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : PIM Module, ---Description :WebElement : PIM ModuleExists, --- Step Status : Pass
+2021-05-10 05:07:30  [ui_functional_test.test_hrm] (main:) Step Name : 
+Menu Item PIM Module, ---Description :Clicked PIM module on Home Page , --- Step Status : Pass
+2021-05-10 05:07:30  [ui_functional_test.test_hrm] (main:) WebElement : Add Employee available.
+2021-05-10 05:07:30  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Add Employee, ---Description :WebElement : Add EmployeeExists, --- Step Status : Pass
+2021-05-10 05:07:31  [ui_functional_test.test_hrm] (main:) WebElement : Input Box First Name  available.
+2021-05-10 05:07:31  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Input Box First Name , ---Description :WebElement : Input Box First Name Exists, --- Step Status : Pass
+2021-05-10 05:07:31  [ui_functional_test.test_hrm] (main:) Step Name : 
+Textbox First Name, ---Description :First Name Set value :  Test, --- Step Status : Pass
+2021-05-10 05:07:31  [ui_functional_test.test_hrm] (main:) WebElement : Input Box Last Name  available.
+2021-05-10 05:07:31  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Input Box Last Name , ---Description :WebElement : Input Box Last Name Exists, --- Step Status : Pass
+2021-05-10 05:07:31  [ui_functional_test.test_hrm] (main:) Step Name : 
+Textbox First Name, ---Description :Last Name Set value :  Testing, --- Step Status : Pass
+2021-05-10 05:07:31  [ui_functional_test.test_hrm] (main:) WebElement : Save Button available.
+2021-05-10 05:07:31  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Save Button, ---Description :WebElement : Save ButtonExists, --- Step Status : Pass
+2021-05-10 05:07:32  [ui_functional_test.test_hrm] (main:) WebElement : Personal Details Page available.
+2021-05-10 05:07:32  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Personal Details Page, ---Description :WebElement : Personal Details PageExists, --- Step Status : Pass
+2021-05-10 05:07:32  [ui_functional_test.test_hrm] (main:) WebElement : Edit Button available.
+2021-05-10 05:07:32  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Edit Button, ---Description :WebElement : Edit ButtonExists, --- Step Status : Pass
+2021-05-10 05:07:33  [ui_functional_test.test_hrm] (main:) WebElement : SSN Number available.
+2021-05-10 05:07:33  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : SSN Number, ---Description :WebElement : SSN NumberExists, --- Step Status : Pass
+2021-05-10 05:07:33  [ui_functional_test.test_hrm] (main:) WebElement : Radio Button:Male available.
+2021-05-10 05:07:33  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Radio Button:Male, ---Description :WebElement : Radio Button:MaleExists, --- Step Status : Pass
+2021-05-10 05:07:34  [ui_functional_test.test_hrm] (main:) Step Name : 
+Employee Personal Details Save Button, ---Description :Clicked on on Personal Details save button, --- Step Status : Pass
+2021-05-10 05:07:34  [ui_functional_test.test_hrm] (main:) WebElement : Contact Details available.
+2021-05-10 05:07:34  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Contact Details, ---Description :WebElement : Contact DetailsExists, --- Step Status : Pass
+2021-05-10 05:10:10  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-10 05:10:10  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-10 05:10:11  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-10 05:10:11  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-10 05:10:11  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-10 05:10:17  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-10 05:10:17  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-10 05:10:17  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-10 05:10:17  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin, --- Step Status : Pass
+2021-05-10 05:10:20  [ui_functional_test.test_hrm] (main:) Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass
+2021-05-10 05:10:20  [ui_functional_test.test_hrm] (main:) Step Name : 
+Welcome Page Displayed, ---Description :Welcome message displayed, --- Step Status : Pass
+2021-05-10 05:10:22  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-10 05:10:22  [ui_functional_test.test_hrm] (main:) Execution Log for TC : verify_add_employee
+2021-05-10 05:10:22  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-10 05:10:22  [ui_functional_test.test_hrm] (main:) WebElement : PIM Module available.
+2021-05-10 05:10:22  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : PIM Module, ---Description :WebElement : PIM ModuleExists, --- Step Status : Pass
+2021-05-10 05:10:23  [ui_functional_test.test_hrm] (main:) Step Name : 
+Menu Item PIM Module, ---Description :Clicked PIM module on Home Page , --- Step Status : Pass
+2021-05-10 05:10:23  [ui_functional_test.test_hrm] (main:) WebElement : Add Employee available.
+2021-05-10 05:10:23  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Add Employee, ---Description :WebElement : Add EmployeeExists, --- Step Status : Pass
+2021-05-10 05:10:24  [ui_functional_test.test_hrm] (main:) WebElement : Input Box First Name  available.
+2021-05-10 05:10:24  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Input Box First Name , ---Description :WebElement : Input Box First Name Exists, --- Step Status : Pass
+2021-05-10 05:10:24  [ui_functional_test.test_hrm] (main:) Step Name : 
+Textbox First Name, ---Description :First Name Set value :  Test, --- Step Status : Pass
+2021-05-10 05:10:24  [ui_functional_test.test_hrm] (main:) WebElement : Input Box Last Name  available.
+2021-05-10 05:10:24  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Input Box Last Name , ---Description :WebElement : Input Box Last Name Exists, --- Step Status : Pass
+2021-05-10 05:10:24  [ui_functional_test.test_hrm] (main:) Step Name : 
+Textbox First Name, ---Description :Last Name Set value :  Testing, --- Step Status : Pass
+2021-05-10 05:10:24  [ui_functional_test.test_hrm] (main:) WebElement : Save Button available.
+2021-05-10 05:10:24  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Save Button, ---Description :WebElement : Save ButtonExists, --- Step Status : Pass
+2021-05-10 05:10:25  [ui_functional_test.test_hrm] (main:) WebElement : Personal Details Page available.
+2021-05-10 05:10:25  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Personal Details Page, ---Description :WebElement : Personal Details PageExists, --- Step Status : Pass
+2021-05-10 05:10:25  [ui_functional_test.test_hrm] (main:) WebElement : Edit Button available.
+2021-05-10 05:10:25  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Edit Button, ---Description :WebElement : Edit ButtonExists, --- Step Status : Pass
+2021-05-10 05:10:26  [ui_functional_test.test_hrm] (main:) WebElement : SSN Number available.
+2021-05-10 05:10:26  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : SSN Number, ---Description :WebElement : SSN NumberExists, --- Step Status : Pass
+2021-05-10 05:10:26  [ui_functional_test.test_hrm] (main:) WebElement : Radio Button:Male available.
+2021-05-10 05:10:26  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Radio Button:Male, ---Description :WebElement : Radio Button:MaleExists, --- Step Status : Pass
+2021-05-10 05:10:27  [ui_functional_test.test_hrm] (main:) Step Name : 
+Employee Personal Details Save Button, ---Description :Clicked on on Personal Details save button, --- Step Status : Pass
+2021-05-10 05:10:27  [ui_functional_test.test_hrm] (main:) WebElement : Contact Details available.
+2021-05-10 05:10:27  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Contact Details, ---Description :WebElement : Contact DetailsExists, --- Step Status : Pass
+2021-05-10 05:10:29  [ui_functional_test.test_hrm] (main:) WebElement : Emergency Contacts Page available.
+2021-05-10 05:10:29  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Emergency Contacts Page, ---Description :WebElement : Emergency Contacts PageExists, --- Step Status : Pass
+2021-05-10 05:10:30  [ui_functional_test.test_hrm] (main:) Step Name : 
+Add Emergency Contact Button, ---Description :Add Emergency Cotact button visible, --- Step Status : Pass
+2021-05-10 05:10:30  [ui_functional_test.test_hrm] (main:) WebElement : Add Emergency Contact Name Details available.
+2021-05-10 05:10:30  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Add Emergency Contact Name Details, ---Description :WebElement : Add Emergency Contact Name DetailsExists, --- Step Status : Pass
+2021-05-10 05:10:30  [ui_functional_test.test_hrm] (main:) WebElement : Emergency Contact Relationship Details available.
+2021-05-10 05:10:30  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Emergency Contact Relationship Details, ---Description :WebElement : Emergency Contact Relationship DetailsExists, --- Step Status : Pass
+2021-05-10 05:10:30  [ui_functional_test.test_hrm] (main:) WebElement : Emergency Contact Mobile Number Details available.
+2021-05-10 05:10:30  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Emergency Contact Mobile Number Details, ---Description :WebElement : Emergency Contact Mobile Number DetailsExists, --- Step Status : Pass
+2021-05-10 05:10:30  [ui_functional_test.test_hrm] (main:) Step Name : 
+Employee Personal Details Save Button, ---Description :Save Emergency Contact, --- Step Status : Pass
+2021-05-10 05:10:31  [ui_functional_test.test_hrm] (main:) WebElement : Dependents Page available.
+2021-05-10 05:10:31  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Dependents Page, ---Description :WebElement : Dependents PageExists, --- Step Status : Pass
+2021-05-10 05:10:31  [ui_functional_test.test_hrm] (main:) WebElement : Dependent Name available.
+2021-05-10 05:10:31  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Dependent Name, ---Description :WebElement : Dependent NameExists, --- Step Status : Pass
+2021-05-10 05:10:32  [ui_functional_test.test_hrm] (main:) Step Name : 
+Dependent Relationship, ---Description :Dropdown value : Child selected., --- Step Status : Pass
+2021-05-10 05:10:32  [ui_functional_test.test_hrm] (main:) WebElement : Dependent Date Of Birth Details available.
+2021-05-10 05:10:32  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Dependent Date Of Birth Details, ---Description :WebElement : Dependent Date Of Birth DetailsExists, --- Step Status : Pass
+2021-05-10 05:10:33  [ui_functional_test.test_hrm] (main:) WebElement : Dependents Page available.
+2021-05-10 05:10:33  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Dependents Page, ---Description :WebElement : Dependents PageExists, --- Step Status : Pass
+2021-05-10 05:13:39  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-10 05:13:39  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-10 05:13:40  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-10 05:13:40  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-10 05:13:40  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-10 05:13:46  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-10 05:13:46  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-10 05:13:46  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-10 05:13:46  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin, --- Step Status : Pass
+2021-05-10 05:13:48  [ui_functional_test.test_hrm] (main:) Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass
+2021-05-10 05:13:48  [ui_functional_test.test_hrm] (main:) Step Name : 
+Welcome Page Displayed, ---Description :Welcome message displayed, --- Step Status : Pass
+2021-05-10 05:13:50  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-10 05:13:50  [ui_functional_test.test_hrm] (main:) Execution Log for TC : verify_add_employee
+2021-05-10 05:13:50  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-10 05:13:50  [ui_functional_test.test_hrm] (main:) WebElement : PIM Module available.
+2021-05-10 05:13:50  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : PIM Module, ---Description :WebElement : PIM ModuleExists, --- Step Status : Pass
+2021-05-10 05:13:51  [ui_functional_test.test_hrm] (main:) Step Name : 
+Menu Item PIM Module, ---Description :Clicked PIM module on Home Page , --- Step Status : Pass
+2021-05-10 05:13:51  [ui_functional_test.test_hrm] (main:) WebElement : Add Employee available.
+2021-05-10 05:13:51  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Add Employee, ---Description :WebElement : Add EmployeeExists, --- Step Status : Pass
+2021-05-10 05:13:51  [ui_functional_test.test_hrm] (main:) WebElement : Input Box First Name  available.
+2021-05-10 05:13:51  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Input Box First Name , ---Description :WebElement : Input Box First Name Exists, --- Step Status : Pass
+2021-05-10 05:13:51  [ui_functional_test.test_hrm] (main:) Step Name : 
+Textbox First Name, ---Description :First Name Set value :  Test, --- Step Status : Pass
+2021-05-10 05:13:51  [ui_functional_test.test_hrm] (main:) WebElement : Input Box Last Name  available.
+2021-05-10 05:13:51  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Input Box Last Name , ---Description :WebElement : Input Box Last Name Exists, --- Step Status : Pass
+2021-05-10 05:13:51  [ui_functional_test.test_hrm] (main:) Step Name : 
+Textbox First Name, ---Description :Last Name Set value :  Testing, --- Step Status : Pass
+2021-05-10 05:13:51  [ui_functional_test.test_hrm] (main:) WebElement : Save Button available.
+2021-05-10 05:13:51  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Save Button, ---Description :WebElement : Save ButtonExists, --- Step Status : Pass
+2021-05-10 05:13:53  [ui_functional_test.test_hrm] (main:) WebElement : Personal Details Page available.
+2021-05-10 05:13:53  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Personal Details Page, ---Description :WebElement : Personal Details PageExists, --- Step Status : Pass
+2021-05-10 05:13:53  [ui_functional_test.test_hrm] (main:) WebElement : Edit Button available.
+2021-05-10 05:13:53  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Edit Button, ---Description :WebElement : Edit ButtonExists, --- Step Status : Pass
+2021-05-10 05:13:53  [ui_functional_test.test_hrm] (main:) WebElement : SSN Number available.
+2021-05-10 05:13:53  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : SSN Number, ---Description :WebElement : SSN NumberExists, --- Step Status : Pass
+2021-05-10 05:13:53  [ui_functional_test.test_hrm] (main:) WebElement : Radio Button:Male available.
+2021-05-10 05:13:53  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Radio Button:Male, ---Description :WebElement : Radio Button:MaleExists, --- Step Status : Pass
+2021-05-10 05:13:54  [ui_functional_test.test_hrm] (main:) Step Name : 
+Employee Personal Details Save Button, ---Description :Clicked on on Personal Details save button, --- Step Status : Pass
+2021-05-10 05:13:54  [ui_functional_test.test_hrm] (main:) WebElement : Contact Details available.
+2021-05-10 05:13:54  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Contact Details, ---Description :WebElement : Contact DetailsExists, --- Step Status : Pass
+2021-05-10 05:13:56  [ui_functional_test.test_hrm] (main:) WebElement : Emergency Contacts Page available.
+2021-05-10 05:13:56  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Emergency Contacts Page, ---Description :WebElement : Emergency Contacts PageExists, --- Step Status : Pass
+2021-05-10 05:13:57  [ui_functional_test.test_hrm] (main:) Step Name : 
+Add Emergency Contact Button, ---Description :Add Emergency Cotact button visible, --- Step Status : Pass
+2021-05-10 05:13:57  [ui_functional_test.test_hrm] (main:) WebElement : Add Emergency Contact Name Details available.
+2021-05-10 05:13:57  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Add Emergency Contact Name Details, ---Description :WebElement : Add Emergency Contact Name DetailsExists, --- Step Status : Pass
+2021-05-10 05:13:57  [ui_functional_test.test_hrm] (main:) WebElement : Emergency Contact Relationship Details available.
+2021-05-10 05:13:57  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Emergency Contact Relationship Details, ---Description :WebElement : Emergency Contact Relationship DetailsExists, --- Step Status : Pass
+2021-05-10 05:13:57  [ui_functional_test.test_hrm] (main:) WebElement : Emergency Contact Mobile Number Details available.
+2021-05-10 05:13:57  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Emergency Contact Mobile Number Details, ---Description :WebElement : Emergency Contact Mobile Number DetailsExists, --- Step Status : Pass
+2021-05-10 05:13:57  [ui_functional_test.test_hrm] (main:) Step Name : 
+Employee Personal Details Save Button, ---Description :Save Emergency Contact, --- Step Status : Pass
+2021-05-10 05:13:58  [ui_functional_test.test_hrm] (main:) WebElement : Dependents Page available.
+2021-05-10 05:13:58  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Dependents Page, ---Description :WebElement : Dependents PageExists, --- Step Status : Pass
+2021-05-10 05:13:59  [ui_functional_test.test_hrm] (main:) WebElement : Dependent Name available.
+2021-05-10 05:13:59  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Dependent Name, ---Description :WebElement : Dependent NameExists, --- Step Status : Pass
+2021-05-10 05:13:59  [ui_functional_test.test_hrm] (main:) Step Name : 
+Dependent Relationship, ---Description :Dropdown value : Child selected., --- Step Status : Pass
+2021-05-10 05:13:59  [ui_functional_test.test_hrm] (main:) WebElement : Dependent Date Of Birth Details available.
+2021-05-10 05:13:59  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Dependent Date Of Birth Details, ---Description :WebElement : Dependent Date Of Birth DetailsExists, --- Step Status : Pass
+2021-05-10 05:14:00  [ui_functional_test.test_hrm] (main:) WebElement : Immigration Details Page available.
+2021-05-10 05:14:00  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Immigration Details Page, ---Description :WebElement : Immigration Details PageExists, --- Step Status : Pass
+2021-05-10 05:14:01  [ui_functional_test.test_hrm] (main:) Step Name : 
+Immigration ->Add Details, ---Description :Add Immigration Details, --- Step Status : Pass
+2021-05-10 05:14:01  [ui_functional_test.test_hrm] (main:) WebElement : Immigration Type :Passport available.
+2021-05-10 05:14:01  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Immigration Type :Passport, ---Description :WebElement : Immigration Type :PassportExists, --- Step Status : Pass
+2021-05-10 05:14:01  [ui_functional_test.test_hrm] (main:) WebElement : Immigration Document Number available.
+2021-05-10 05:14:01  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Immigration Document Number, ---Description :WebElement : Immigration Document NumberExists, --- Step Status : Pass
+2021-05-10 05:14:02  [ui_functional_test.test_hrm] (main:) Step Name : 
+Immigration ->Add Details -> Save, ---Description :Clicked on Save , --- Step Status : Pass
+2021-05-10 05:14:02  [ui_functional_test.test_hrm] (main:) WebElement : Job Page available.
+2021-05-10 05:14:02  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Job Page, ---Description :WebElement : Job PageExists, --- Step Status : Pass
+2021-05-10 05:14:03  [ui_functional_test.test_hrm] (main:) Step Name : 
+Job Details ->Add Details, ---Description :Clicked on Add button , --- Step Status : Pass
+2021-05-10 05:14:03  [ui_functional_test.test_hrm] (main:) Step Name : 
+Job Details ->Add Details -> Title, ---Description :Selected Title: QA Lead, --- Step Status : Pass
+2021-05-10 05:14:04  [ui_functional_test.test_hrm] (main:) WebElement : Salary Details  Page available.
+2021-05-10 05:14:04  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Salary Details  Page, ---Description :WebElement : Salary Details  PageExists, --- Step Status : Pass
+2021-05-10 05:14:05  [ui_functional_test.test_hrm] (main:) WebElement : Salary Component available.
+2021-05-10 05:14:05  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Salary Component, ---Description :WebElement : Salary ComponentExists, --- Step Status : Pass
+2021-05-10 05:14:05  [ui_functional_test.test_hrm] (main:) WebElement : Salary Amount available.
+2021-05-10 05:14:05  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Salary Amount, ---Description :WebElement : Salary AmountExists, --- Step Status : Pass
+2021-05-10 05:14:05  [ui_functional_test.test_hrm] (main:) Step Name : 
+Salary ->Add Details -> Salary Currency, ---Description :Selected Currency: Philippine Peso, --- Step Status : Pass
+2021-05-10 05:14:05  [ui_functional_test.test_hrm] (main:) WebElement : Tax Exemptions  Page available.
+2021-05-10 05:14:05  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Tax Exemptions  Page, ---Description :WebElement : Tax Exemptions  PageExists, --- Step Status : Pass
+2021-05-10 05:14:06  [ui_functional_test.test_hrm] (main:) Step Name : 
+Tax Exemption ->Add Details -> Status, ---Description :Selected Status: Married, --- Step Status : Pass
+2021-05-10 05:14:06  [ui_functional_test.test_hrm] (main:) WebElement :  Exemption available.
+2021-05-10 05:14:06  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement :  Exemption, ---Description :WebElement :  ExemptionExists, --- Step Status : Pass
+2021-05-10 05:42:48  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-10 05:42:48  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-10 05:42:48  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-10 05:42:48  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-10 05:42:48  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-10 05:42:55  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-10 05:42:55  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-10 05:42:55  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-10 05:42:56  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin, --- Step Status : Pass
+2021-05-10 05:42:58  [ui_functional_test.test_hrm] (main:) Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass
+2021-05-10 05:42:59  [ui_functional_test.test_hrm] (main:) Step Name : 
+Welcome Page Displayed, ---Description :Welcome message displayed, --- Step Status : Pass
+2021-05-10 05:43:00  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-10 05:43:00  [ui_functional_test.test_hrm] (main:) Execution Log for TC : verify_add_employee
+2021-05-10 05:43:00  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-10 05:43:00  [ui_functional_test.test_hrm] (main:) WebElement : PIM Module available.
+2021-05-10 05:43:00  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : PIM Module, ---Description :WebElement : PIM ModuleExists, --- Step Status : Pass
+2021-05-10 05:43:01  [ui_functional_test.test_hrm] (main:) Step Name : 
+Menu Item PIM Module, ---Description :Clicked PIM module on Home Page , --- Step Status : Pass
+2021-05-10 05:43:01  [ui_functional_test.test_hrm] (main:) WebElement : Add Employee available.
+2021-05-10 05:43:01  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Add Employee, ---Description :WebElement : Add EmployeeExists, --- Step Status : Pass
+2021-05-10 05:43:02  [ui_functional_test.test_hrm] (main:) WebElement : Input Box First Name  available.
+2021-05-10 05:43:02  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Input Box First Name , ---Description :WebElement : Input Box First Name Exists, --- Step Status : Pass
+2021-05-10 05:43:02  [ui_functional_test.test_hrm] (main:) Step Name : 
+Textbox First Name, ---Description :First Name Set value :  Test, --- Step Status : Pass
+2021-05-10 05:43:02  [ui_functional_test.test_hrm] (main:) WebElement : Input Box Last Name  available.
+2021-05-10 05:43:02  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Input Box Last Name , ---Description :WebElement : Input Box Last Name Exists, --- Step Status : Pass
+2021-05-10 05:43:02  [ui_functional_test.test_hrm] (main:) Step Name : 
+Textbox First Name, ---Description :Last Name Set value :  Testing, --- Step Status : Pass
+2021-05-10 05:43:02  [ui_functional_test.test_hrm] (main:) WebElement : Save Button available.
+2021-05-10 05:43:02  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Save Button, ---Description :WebElement : Save ButtonExists, --- Step Status : Pass
+2021-05-10 05:43:04  [ui_functional_test.test_hrm] (main:) WebElement : Personal Details Page available.
+2021-05-10 05:43:04  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Personal Details Page, ---Description :WebElement : Personal Details PageExists, --- Step Status : Pass
+2021-05-10 05:43:04  [ui_functional_test.test_hrm] (main:) WebElement : Edit Button available.
+2021-05-10 05:43:04  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Edit Button, ---Description :WebElement : Edit ButtonExists, --- Step Status : Pass
+2021-05-10 05:43:04  [ui_functional_test.test_hrm] (main:) WebElement : SSN Number available.
+2021-05-10 05:43:04  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : SSN Number, ---Description :WebElement : SSN NumberExists, --- Step Status : Pass
+2021-05-10 05:43:04  [ui_functional_test.test_hrm] (main:) WebElement : Radio Button:Male available.
+2021-05-10 05:43:04  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Radio Button:Male, ---Description :WebElement : Radio Button:MaleExists, --- Step Status : Pass
+2021-05-10 05:43:05  [ui_functional_test.test_hrm] (main:) Step Name : 
+Employee Personal Details Save Button, ---Description :Clicked on on Personal Details save button, --- Step Status : Pass
+2021-05-10 05:43:05  [ui_functional_test.test_hrm] (main:) WebElement : Contact Details available.
+2021-05-10 05:43:05  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Contact Details, ---Description :WebElement : Contact DetailsExists, --- Step Status : Pass
+2021-05-10 05:43:07  [ui_functional_test.test_hrm] (main:) WebElement : Emergency Contacts Page available.
+2021-05-10 05:43:07  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Emergency Contacts Page, ---Description :WebElement : Emergency Contacts PageExists, --- Step Status : Pass
+2021-05-10 05:43:08  [ui_functional_test.test_hrm] (main:) Step Name : 
+Add Emergency Contact Button, ---Description :Add Emergency Cotact button visible, --- Step Status : Pass
+2021-05-10 05:43:08  [ui_functional_test.test_hrm] (main:) WebElement : Add Emergency Contact Name Details available.
+2021-05-10 05:43:08  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Add Emergency Contact Name Details, ---Description :WebElement : Add Emergency Contact Name DetailsExists, --- Step Status : Pass
+2021-05-10 05:43:08  [ui_functional_test.test_hrm] (main:) WebElement : Emergency Contact Relationship Details available.
+2021-05-10 05:43:08  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Emergency Contact Relationship Details, ---Description :WebElement : Emergency Contact Relationship DetailsExists, --- Step Status : Pass
+2021-05-10 05:43:08  [ui_functional_test.test_hrm] (main:) WebElement : Emergency Contact Mobile Number Details available.
+2021-05-10 05:43:08  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Emergency Contact Mobile Number Details, ---Description :WebElement : Emergency Contact Mobile Number DetailsExists, --- Step Status : Pass
+2021-05-10 05:43:08  [ui_functional_test.test_hrm] (main:) Step Name : 
+Employee Personal Details Save Button, ---Description :Save Emergency Contact, --- Step Status : Pass
+2021-05-10 05:43:09  [ui_functional_test.test_hrm] (main:) WebElement : Dependents Page available.
+2021-05-10 05:43:09  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Dependents Page, ---Description :WebElement : Dependents PageExists, --- Step Status : Pass
+2021-05-10 05:43:09  [ui_functional_test.test_hrm] (main:) WebElement : Dependent Name available.
+2021-05-10 05:43:09  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Dependent Name, ---Description :WebElement : Dependent NameExists, --- Step Status : Pass
+2021-05-10 05:43:10  [ui_functional_test.test_hrm] (main:) Step Name : 
+Dependent Relationship, ---Description :Dropdown value : Child selected., --- Step Status : Pass
+2021-05-10 05:43:10  [ui_functional_test.test_hrm] (main:) WebElement : Dependent Date Of Birth Details available.
+2021-05-10 05:43:10  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Dependent Date Of Birth Details, ---Description :WebElement : Dependent Date Of Birth DetailsExists, --- Step Status : Pass
+2021-05-10 05:43:11  [ui_functional_test.test_hrm] (main:) WebElement : Immigration Details Page available.
+2021-05-10 05:43:11  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Immigration Details Page, ---Description :WebElement : Immigration Details PageExists, --- Step Status : Pass
+2021-05-10 05:43:12  [ui_functional_test.test_hrm] (main:) Step Name : 
+Immigration ->Add Details, ---Description :Add Immigration Details, --- Step Status : Pass
+2021-05-10 05:43:12  [ui_functional_test.test_hrm] (main:) WebElement : Immigration Type :Passport available.
+2021-05-10 05:43:12  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Immigration Type :Passport, ---Description :WebElement : Immigration Type :PassportExists, --- Step Status : Pass
+2021-05-10 05:43:12  [ui_functional_test.test_hrm] (main:) WebElement : Immigration Document Number available.
+2021-05-10 05:43:12  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Immigration Document Number, ---Description :WebElement : Immigration Document NumberExists, --- Step Status : Pass
+2021-05-10 05:43:13  [ui_functional_test.test_hrm] (main:) Step Name : 
+Immigration ->Add Details -> Save, ---Description :Clicked on Save , --- Step Status : Pass
+2021-05-10 05:43:13  [ui_functional_test.test_hrm] (main:) WebElement : Job Page available.
+2021-05-10 05:43:13  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Job Page, ---Description :WebElement : Job PageExists, --- Step Status : Pass
+2021-05-10 05:43:14  [ui_functional_test.test_hrm] (main:) Step Name : 
+Job Details ->Add Details, ---Description :Clicked on Add button , --- Step Status : Pass
+2021-05-10 05:43:14  [ui_functional_test.test_hrm] (main:) Step Name : 
+Job Details ->Add Details -> Title, ---Description :Selected Title: QA Lead, --- Step Status : Pass
+2021-05-10 05:43:15  [ui_functional_test.test_hrm] (main:) WebElement : Salary Details  Page available.
+2021-05-10 05:43:15  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Salary Details  Page, ---Description :WebElement : Salary Details  PageExists, --- Step Status : Pass
+2021-05-10 05:43:16  [ui_functional_test.test_hrm] (main:) WebElement : Salary Component available.
+2021-05-10 05:43:16  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Salary Component, ---Description :WebElement : Salary ComponentExists, --- Step Status : Pass
+2021-05-10 05:43:16  [ui_functional_test.test_hrm] (main:) WebElement : Salary Amount available.
+2021-05-10 05:43:16  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Salary Amount, ---Description :WebElement : Salary AmountExists, --- Step Status : Pass
+2021-05-10 05:43:16  [ui_functional_test.test_hrm] (main:) Step Name : 
+Salary ->Add Details -> Salary Currency, ---Description :Selected Currency: Philippine Peso, --- Step Status : Pass
+2021-05-10 05:43:16  [ui_functional_test.test_hrm] (main:) WebElement : Tax Exemptions  Page available.
+2021-05-10 05:43:16  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Tax Exemptions  Page, ---Description :WebElement : Tax Exemptions  PageExists, --- Step Status : Pass
+2021-05-10 05:46:48  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-10 05:46:48  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-10 05:46:49  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-10 05:46:49  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-10 05:46:49  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-10 05:46:54  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-10 05:46:54  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-10 05:46:54  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-10 05:46:54  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin, --- Step Status : Pass
+2021-05-10 05:46:57  [ui_functional_test.test_hrm] (main:) Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass
+2021-05-10 05:46:57  [ui_functional_test.test_hrm] (main:) Step Name : 
+Welcome Page Displayed, ---Description :Welcome message displayed, --- Step Status : Pass
+2021-05-10 05:46:58  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-10 05:46:58  [ui_functional_test.test_hrm] (main:) Execution Log for TC : verify_add_employee
+2021-05-10 05:46:58  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-10 05:46:58  [ui_functional_test.test_hrm] (main:) WebElement : PIM Module available.
+2021-05-10 05:46:58  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : PIM Module, ---Description :WebElement : PIM ModuleExists, --- Step Status : Pass
+2021-05-10 05:46:59  [ui_functional_test.test_hrm] (main:) Step Name : 
+Menu Item PIM Module, ---Description :Clicked PIM module on Home Page , --- Step Status : Pass
+2021-05-10 05:46:59  [ui_functional_test.test_hrm] (main:) WebElement : Add Employee available.
+2021-05-10 05:46:59  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Add Employee, ---Description :WebElement : Add EmployeeExists, --- Step Status : Pass
+2021-05-10 05:47:00  [ui_functional_test.test_hrm] (main:) WebElement : Input Box First Name  available.
+2021-05-10 05:47:00  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Input Box First Name , ---Description :WebElement : Input Box First Name Exists, --- Step Status : Pass
+2021-05-10 05:47:00  [ui_functional_test.test_hrm] (main:) Step Name : 
+Textbox First Name, ---Description :First Name Set value :  Test, --- Step Status : Pass
+2021-05-10 05:47:00  [ui_functional_test.test_hrm] (main:) WebElement : Input Box Last Name  available.
+2021-05-10 05:47:00  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Input Box Last Name , ---Description :WebElement : Input Box Last Name Exists, --- Step Status : Pass
+2021-05-10 05:47:00  [ui_functional_test.test_hrm] (main:) Step Name : 
+Textbox First Name, ---Description :Last Name Set value :  Testing, --- Step Status : Pass
+2021-05-10 05:47:00  [ui_functional_test.test_hrm] (main:) WebElement : Save Button available.
+2021-05-10 05:47:00  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Save Button, ---Description :WebElement : Save ButtonExists, --- Step Status : Pass
+2021-05-10 05:47:01  [ui_functional_test.test_hrm] (main:) WebElement : Personal Details Page available.
+2021-05-10 05:47:01  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Personal Details Page, ---Description :WebElement : Personal Details PageExists, --- Step Status : Pass
+2021-05-10 05:47:01  [ui_functional_test.test_hrm] (main:) WebElement : Edit Button available.
+2021-05-10 05:47:01  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Edit Button, ---Description :WebElement : Edit ButtonExists, --- Step Status : Pass
+2021-05-10 05:47:01  [ui_functional_test.test_hrm] (main:) WebElement : SSN Number available.
+2021-05-10 05:47:01  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : SSN Number, ---Description :WebElement : SSN NumberExists, --- Step Status : Pass
+2021-05-10 05:47:01  [ui_functional_test.test_hrm] (main:) WebElement : Radio Button:Male available.
+2021-05-10 05:47:01  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Radio Button:Male, ---Description :WebElement : Radio Button:MaleExists, --- Step Status : Pass
+2021-05-10 05:47:02  [ui_functional_test.test_hrm] (main:) Step Name : 
+Employee Personal Details Save Button, ---Description :Clicked on on Personal Details save button, --- Step Status : Pass
+2021-05-10 05:47:02  [ui_functional_test.test_hrm] (main:) WebElement : Contact Details available.
+2021-05-10 05:47:02  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Contact Details, ---Description :WebElement : Contact DetailsExists, --- Step Status : Pass
+2021-05-10 05:47:04  [ui_functional_test.test_hrm] (main:) WebElement : Emergency Contacts Page available.
+2021-05-10 05:47:04  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Emergency Contacts Page, ---Description :WebElement : Emergency Contacts PageExists, --- Step Status : Pass
+2021-05-10 05:47:05  [ui_functional_test.test_hrm] (main:) Step Name : 
+Add Emergency Contact Button, ---Description :Add Emergency Cotact button visible, --- Step Status : Pass
+2021-05-10 05:47:05  [ui_functional_test.test_hrm] (main:) WebElement : Add Emergency Contact Name Details available.
+2021-05-10 05:47:05  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Add Emergency Contact Name Details, ---Description :WebElement : Add Emergency Contact Name DetailsExists, --- Step Status : Pass
+2021-05-10 05:47:05  [ui_functional_test.test_hrm] (main:) WebElement : Emergency Contact Relationship Details available.
+2021-05-10 05:47:05  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Emergency Contact Relationship Details, ---Description :WebElement : Emergency Contact Relationship DetailsExists, --- Step Status : Pass
+2021-05-10 05:47:05  [ui_functional_test.test_hrm] (main:) WebElement : Emergency Contact Mobile Number Details available.
+2021-05-10 05:47:05  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Emergency Contact Mobile Number Details, ---Description :WebElement : Emergency Contact Mobile Number DetailsExists, --- Step Status : Pass
+2021-05-10 05:47:05  [ui_functional_test.test_hrm] (main:) Step Name : 
+Employee Personal Details Save Button, ---Description :Save Emergency Contact, --- Step Status : Pass
+2021-05-10 05:47:06  [ui_functional_test.test_hrm] (main:) WebElement : Dependents Page available.
+2021-05-10 05:47:06  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Dependents Page, ---Description :WebElement : Dependents PageExists, --- Step Status : Pass
+2021-05-10 05:47:07  [ui_functional_test.test_hrm] (main:) WebElement : Dependent Name available.
+2021-05-10 05:47:07  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Dependent Name, ---Description :WebElement : Dependent NameExists, --- Step Status : Pass
+2021-05-10 05:47:07  [ui_functional_test.test_hrm] (main:) Step Name : 
+Dependent Relationship, ---Description :Dropdown value : Child selected., --- Step Status : Pass
+2021-05-10 05:47:07  [ui_functional_test.test_hrm] (main:) WebElement : Dependent Date Of Birth Details available.
+2021-05-10 05:47:07  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Dependent Date Of Birth Details, ---Description :WebElement : Dependent Date Of Birth DetailsExists, --- Step Status : Pass
+2021-05-10 05:47:08  [ui_functional_test.test_hrm] (main:) WebElement : Immigration Details Page available.
+2021-05-10 05:47:08  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Immigration Details Page, ---Description :WebElement : Immigration Details PageExists, --- Step Status : Pass
+2021-05-10 05:47:09  [ui_functional_test.test_hrm] (main:) Step Name : 
+Immigration ->Add Details, ---Description :Add Immigration Details, --- Step Status : Pass
+2021-05-10 05:47:09  [ui_functional_test.test_hrm] (main:) WebElement : Immigration Type :Passport available.
+2021-05-10 05:47:09  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Immigration Type :Passport, ---Description :WebElement : Immigration Type :PassportExists, --- Step Status : Pass
+2021-05-10 05:47:09  [ui_functional_test.test_hrm] (main:) WebElement : Immigration Document Number available.
+2021-05-10 05:47:09  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Immigration Document Number, ---Description :WebElement : Immigration Document NumberExists, --- Step Status : Pass
+2021-05-10 05:47:10  [ui_functional_test.test_hrm] (main:) Step Name : 
+Immigration ->Add Details -> Save, ---Description :Clicked on Save , --- Step Status : Pass
+2021-05-10 05:47:10  [ui_functional_test.test_hrm] (main:) WebElement : Job Page available.
+2021-05-10 05:47:10  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Job Page, ---Description :WebElement : Job PageExists, --- Step Status : Pass
+2021-05-10 05:47:10  [ui_functional_test.test_hrm] (main:) Step Name : 
+Job Details ->Add Details, ---Description :Clicked on Add button , --- Step Status : Pass
+2021-05-10 05:47:11  [ui_functional_test.test_hrm] (main:) Step Name : 
+Job Details ->Add Details -> Title, ---Description :Selected Title: QA Lead, --- Step Status : Pass
+2021-05-10 05:47:11  [ui_functional_test.test_hrm] (main:) WebElement : Salary Details  Page available.
+2021-05-10 05:47:11  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Salary Details  Page, ---Description :WebElement : Salary Details  PageExists, --- Step Status : Pass
+2021-05-10 05:47:12  [ui_functional_test.test_hrm] (main:) WebElement : Salary Component available.
+2021-05-10 05:47:12  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Salary Component, ---Description :WebElement : Salary ComponentExists, --- Step Status : Pass
+2021-05-10 05:47:12  [ui_functional_test.test_hrm] (main:) WebElement : Salary Amount available.
+2021-05-10 05:47:12  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Salary Amount, ---Description :WebElement : Salary AmountExists, --- Step Status : Pass
+2021-05-10 05:47:12  [ui_functional_test.test_hrm] (main:) Step Name : 
+Salary ->Add Details -> Salary Currency, ---Description :Selected Currency: Swedish Krona, --- Step Status : Pass
+2021-05-10 05:47:13  [ui_functional_test.test_hrm] (main:) WebElement : Tax Exemptions  Page available.
+2021-05-10 05:47:13  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Tax Exemptions  Page, ---Description :WebElement : Tax Exemptions  PageExists, --- Step Status : Pass
+2021-05-10 05:50:00  [ui_functional_test.test_hrm] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-05-10 05:50:00  [ui_functional_test.test_hrm] (main:) Test Suite Execution Has started has Started
+2021-05-10 05:50:00  [ui_functional_test.test_hrm] (main:) TestData -> Input.xlsx - Successful
+2021-05-10 05:50:01  [ui_functional_test.test_hrm] (main:) TestData -> Execution_Report.xlsx - Successful
+2021-05-10 05:50:01  [ui_functional_test.test_hrm] (main:) Test_Report -> Execution_StepReport - Successful
+2021-05-10 05:50:05  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-10 05:50:05  [ui_functional_test.test_hrm] (main:) Execution Log for TC : login
+2021-05-10 05:50:05  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-10 05:50:06  [ui_functional_test.test_hrm] (main:) Step Name : 
+Input User name, ---Description :Set value for username :admin, --- Step Status : Pass
+2021-05-10 05:50:09  [ui_functional_test.test_hrm] (main:) Step Name : 
+Set Input Password, ---Description :Value for Password Set., --- Step Status : Pass
+2021-05-10 05:50:09  [ui_functional_test.test_hrm] (main:) Step Name : 
+Welcome Page Displayed, ---Description :Welcome message displayed, --- Step Status : Pass
+2021-05-10 05:50:10  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-10 05:50:10  [ui_functional_test.test_hrm] (main:) Execution Log for TC : verify_add_employee
+2021-05-10 05:50:10  [ui_functional_test.test_hrm] (main:) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2021-05-10 05:50:10  [ui_functional_test.test_hrm] (main:) WebElement : PIM Module available.
+2021-05-10 05:50:10  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : PIM Module, ---Description :WebElement : PIM ModuleExists, --- Step Status : Pass
+2021-05-10 05:50:11  [ui_functional_test.test_hrm] (main:) Step Name : 
+Menu Item PIM Module, ---Description :Clicked PIM module on Home Page , --- Step Status : Pass
+2021-05-10 05:50:11  [ui_functional_test.test_hrm] (main:) WebElement : Add Employee available.
+2021-05-10 05:50:11  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Add Employee, ---Description :WebElement : Add EmployeeExists, --- Step Status : Pass
+2021-05-10 05:50:11  [ui_functional_test.test_hrm] (main:) WebElement : Input Box First Name  available.
+2021-05-10 05:50:11  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Input Box First Name , ---Description :WebElement : Input Box First Name Exists, --- Step Status : Pass
+2021-05-10 05:50:11  [ui_functional_test.test_hrm] (main:) Step Name : 
+Textbox First Name, ---Description :First Name Set value :  Test, --- Step Status : Pass
+2021-05-10 05:50:11  [ui_functional_test.test_hrm] (main:) WebElement : Input Box Last Name  available.
+2021-05-10 05:50:11  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Input Box Last Name , ---Description :WebElement : Input Box Last Name Exists, --- Step Status : Pass
+2021-05-10 05:50:11  [ui_functional_test.test_hrm] (main:) Step Name : 
+Textbox First Name, ---Description :Last Name Set value :  Testing, --- Step Status : Pass
+2021-05-10 05:50:11  [ui_functional_test.test_hrm] (main:) WebElement : Save Button available.
+2021-05-10 05:50:11  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Save Button, ---Description :WebElement : Save ButtonExists, --- Step Status : Pass
+2021-05-10 05:50:13  [ui_functional_test.test_hrm] (main:) WebElement : Personal Details Page available.
+2021-05-10 05:50:13  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Personal Details Page, ---Description :WebElement : Personal Details PageExists, --- Step Status : Pass
+2021-05-10 05:50:13  [ui_functional_test.test_hrm] (main:) WebElement : Edit Button available.
+2021-05-10 05:50:13  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Edit Button, ---Description :WebElement : Edit ButtonExists, --- Step Status : Pass
+2021-05-10 05:50:13  [ui_functional_test.test_hrm] (main:) WebElement : SSN Number available.
+2021-05-10 05:50:13  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : SSN Number, ---Description :WebElement : SSN NumberExists, --- Step Status : Pass
+2021-05-10 05:50:13  [ui_functional_test.test_hrm] (main:) WebElement : Radio Button:Male available.
+2021-05-10 05:50:13  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Radio Button:Male, ---Description :WebElement : Radio Button:MaleExists, --- Step Status : Pass
+2021-05-10 05:50:14  [ui_functional_test.test_hrm] (main:) Step Name : 
+Employee Personal Details Save Button, ---Description :Clicked on on Personal Details save button, --- Step Status : Pass
+2021-05-10 05:50:14  [ui_functional_test.test_hrm] (main:) WebElement : Contact Details available.
+2021-05-10 05:50:14  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Contact Details, ---Description :WebElement : Contact DetailsExists, --- Step Status : Pass
+2021-05-10 05:50:16  [ui_functional_test.test_hrm] (main:) WebElement : Emergency Contacts Page available.
+2021-05-10 05:50:16  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Emergency Contacts Page, ---Description :WebElement : Emergency Contacts PageExists, --- Step Status : Pass
+2021-05-10 05:50:17  [ui_functional_test.test_hrm] (main:) Step Name : 
+Add Emergency Contact Button, ---Description :Add Emergency Cotact button visible, --- Step Status : Pass
+2021-05-10 05:50:17  [ui_functional_test.test_hrm] (main:) WebElement : Add Emergency Contact Name Details available.
+2021-05-10 05:50:17  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Add Emergency Contact Name Details, ---Description :WebElement : Add Emergency Contact Name DetailsExists, --- Step Status : Pass
+2021-05-10 05:50:17  [ui_functional_test.test_hrm] (main:) WebElement : Emergency Contact Relationship Details available.
+2021-05-10 05:50:17  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Emergency Contact Relationship Details, ---Description :WebElement : Emergency Contact Relationship DetailsExists, --- Step Status : Pass
+2021-05-10 05:50:17  [ui_functional_test.test_hrm] (main:) WebElement : Emergency Contact Mobile Number Details available.
+2021-05-10 05:50:17  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Emergency Contact Mobile Number Details, ---Description :WebElement : Emergency Contact Mobile Number DetailsExists, --- Step Status : Pass
+2021-05-10 05:50:17  [ui_functional_test.test_hrm] (main:) Step Name : 
+Employee Personal Details Save Button, ---Description :Save Emergency Contact, --- Step Status : Pass
+2021-05-10 05:50:18  [ui_functional_test.test_hrm] (main:) WebElement : Dependents Page available.
+2021-05-10 05:50:18  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Dependents Page, ---Description :WebElement : Dependents PageExists, --- Step Status : Pass
+2021-05-10 05:50:19  [ui_functional_test.test_hrm] (main:) WebElement : Dependent Name available.
+2021-05-10 05:50:19  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Dependent Name, ---Description :WebElement : Dependent NameExists, --- Step Status : Pass
+2021-05-10 05:50:19  [ui_functional_test.test_hrm] (main:) Step Name : 
+Dependent Relationship, ---Description :Dropdown value : Child selected., --- Step Status : Pass
+2021-05-10 05:50:19  [ui_functional_test.test_hrm] (main:) WebElement : Dependent Date Of Birth Details available.
+2021-05-10 05:50:19  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Dependent Date Of Birth Details, ---Description :WebElement : Dependent Date Of Birth DetailsExists, --- Step Status : Pass
+2021-05-10 05:50:20  [ui_functional_test.test_hrm] (main:) WebElement : Immigration Details Page available.
+2021-05-10 05:50:20  [ui_functional_test.test_hrm] (main:) Step Name : 
+WebElement : Immigration Details Page, ---Description :WebElement : Immigration Details PageExists, --- Step Status : Pass

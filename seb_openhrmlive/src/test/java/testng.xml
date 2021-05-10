@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="1" name="SEB UI Assignment">
+<parameter name = "browser" value ="chrome"/>
+
+	<test name="verify_add_employee">
+		<parameter name = "user_id" value ="admin"></parameter>
+		<parameter name = "password" value ="admin123"/>
+		<classes>
+			<class name="ui_functional_test.test_hrm" >
+			<methods>
+				<include name = "login"/>
+				<include name = "verify_addnewemployee"/>	
+			</methods>
+			</class>
+		</classes>
+	</test>
+
+</suite>

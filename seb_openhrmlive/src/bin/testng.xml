@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="5" name="SEB UI Assignment">
+	<test name = "login_incorrect_credentials">
+		<classes>
+			<class name = "ui_functional_test.test_hrm">
+			<methods>
+				<include name = "login">
+				<parameter name = "user_id" value ="admin123"/>
+				<parameter name = "password" value ="admin"/>
+				</include>
+				<exclude name = "verify_addnewemployee"/>
+			</methods>					
+			</class>
+		</classes>
+	</test>
+	<test name = "login">
+		<classes>
+			<class name = "ui_functional_test.test_hrm">
+			<methods>
+				<include name = "login">
+				<parameter name = "user_id" value ="admin"/>
+				<parameter name = "password" value ="admin123"/>
+				</include>
+				<exclude name = "verify_addnewemployee"/>
+			</methods>					
+			</class>
+		</classes>
+	</test>
+	<test name="verify_add_employee">
+		<classes>
+			<class name="ui_functional_test.test_hrm" >
+			<methods>
+				<exclude name = "verify_addnewemployee"/>	
+			</methods>
+			</class>
+		</classes>
+	</test>
+</suite>
